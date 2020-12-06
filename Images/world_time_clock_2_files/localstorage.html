@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- saved from url=(0080)https://www.micstatic.com/an/2017/js/business/localstorage/localstorage.html?v=2 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title></title>
+</head>
+<body>
+
+
+<script type="text/javascript">
+    var fn = function(){};
+    fn.prototype = {
+        setLocal:function(key,value){
+            localStorage.setItem(key,value);
+        },
+        getLocal:function(key){
+            return localStorage.getItem(key);
+        },
+        removeLocal:function(key){
+            localStorage.removeItem(key);
+        },
+        bindEvent:function(){
+            var self = this;
+            //监听
+            window.addEventListener('message',function(e){
+                if(window.parent!=e.source) return;
+                var option = JSON.parse(e.data);
+                if(option.type.toLowerCase()=="get"){
+                    var data = self.getLocal(option.key);
+                    window.parent.postMessage(JSON.stringify({key:option.key,value:data}),'*');
+                }
+                option.type.toLowerCase()=="set"&&self.setLocal(option.key,option.value);
+                option.type.toLowerCase()=="remove"&&self.removeLocal(option.key);
+            })
+        },
+        init:function(){
+            var self = this;
+            self.bindEvent();
+        }
+    }
+    var tools = new fn();
+    tools.init();
+</script></body></html>
