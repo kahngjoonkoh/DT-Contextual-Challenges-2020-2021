@@ -88,34 +88,34 @@ void setup() {
 // If no button is pressed, it will display current temperatures
 void loop() {
   if (isHigh(BUTTON1)){
-    int pastTemp1[8] = {234, 12, 12, 12, 260, 261, 262, 263};
-    int pastTemp2[8] = {123, 456, 789, 123, 12, 23, 43, 12};
-    int pastTemp3[8] = {123, 123, 432, 345, 654, 568, 22, 26};
+    int pastTemp1[8] = {143, 107, 217, 257, 104, 165, 176, 255};
+    int pastTemp2[8] = {026, 076, 099, 197, 099, 175, 159, 104};
+    int pastTemp3[8] = {085, 172, 089, 006, 148, 181, 218, 155};
         
     displayAll(pastTemp1, 1);
     displayAll(pastTemp2, 2);
     displayAll(pastTemp3, 3);
-    singleDisplay(256);
+    singleDisplay(127);
   }
   else if (isHigh(BUTTON2)){
-    int futureTemp1[8] = {256, 257, 258, 259, 260, 261, 262, 263};
-    int futureTemp2[8] = {123, 456, 789, 123, 12, 23, 43, 12};
-    int futureTemp3[8] = {123, 123, 432, 345, 654, 568, 22, 26};
+    int futureTemp1[8] = {156, 119, 226, 268, 121, 176, 187, 267};
+    int futureTemp2[8] = {049, 091, 113, 213, 111, 190, 169, 121};
+    int futureTemp3[8] = {100, 182, 099, 021, 159, 187, 232, 168};
       
     displayAll(futureTemp1, 1);
     displayAll(futureTemp2, 2);
     displayAll(futureTemp3, 3);
-    singleDisplay(257);
+    singleDisplay(141);
   }
   else{
-    int currentTemp1[8] = {256, 257, 258, 259, 260, 261, 262, 263};
-    int currentTemp2[8] = {123, 456, 789, 123, 12, 23, 43, 12};
-    int currentTemp3[8] = {123, 123, 432, 345, 654, 568, 22, 26};
+    int currentTemp1[8] = {186, 153, 253, 292, 160, 205, 210, 302};
+    int currentTemp2[8] = {096, 125, 145, 245, 139, 220, 193, 157};
+    int currentTemp3[8] = {140, 208, 132, 067, 188, 213, 261, 191};
     
     displayAll(currentTemp1, 1);
     displayAll(currentTemp2, 2);
     displayAll(currentTemp3, 3);
-    singleDisplay(258);
+    singleDisplay(158);
   }
 }
 
