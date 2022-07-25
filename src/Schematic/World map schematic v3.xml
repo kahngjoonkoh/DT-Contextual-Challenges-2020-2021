@@ -1,0 +1,5290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\KiCad\Projects\DT_Project\World map schematic v3.sch</source>
+    <date>12/5/2020 11:39:10 PM</date>
+    <tool>Eeschema (5.1.7)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>World map schematic v3.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U22">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8A90C9</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8B89A1</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8B89A7</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F864439</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8AF3EA</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F86C3E0</tstamp>
+    </comp>
+    <comp ref="Q34">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC8F605</tstamp>
+    </comp>
+    <comp ref="Q35">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FCA4F38</tstamp>
+    </comp>
+    <comp ref="Q36">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FCBAB73</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8901CC</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F887910</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F891213</tstamp>
+    </comp>
+    <comp ref="Q25">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F966F92</tstamp>
+    </comp>
+    <comp ref="U42">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C7C2</tstamp>
+    </comp>
+    <comp ref="U41">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C78C</tstamp>
+    </comp>
+    <comp ref="U40">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C726</tstamp>
+    </comp>
+    <comp ref="U39">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C6F0</tstamp>
+    </comp>
+    <comp ref="U36">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C6C5</tstamp>
+    </comp>
+    <comp ref="U35">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C63A</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C5C7</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6232C548</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BC2A</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BBF4</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BB8E</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BB58</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BB2D</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BAA2</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215BA2F</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6215B9B0</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F98F143</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F900482</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8FCB00</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8F86A7</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD25054</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654C935A</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ESP8266_WiFi_Module</value>
+      <libsource lib="CustomMade" part="ESP8266_WiFi_Module" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F97BDB9</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F98A804</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6025A98D</tstamp>
+    </comp>
+    <comp ref="A1">
+      <value>Arduino_UNO_R2</value>
+      <footprint>Module:Arduino_UNO_R2</footprint>
+      <datasheet>https://www.arduino.cc/en/Main/arduinoBoardUno</datasheet>
+      <libsource lib="MCU_Module" part="Arduino_UNO_R2" description="Arduino UNO Microcontroller Module, release 2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F85CE3E</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62ABB2B0</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63D851C2</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63E40E27</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63EFC6E8</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63FB7FB4</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6407763F</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64133065</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>641EE945</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>642AA30C</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64762E82</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6481E562</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>648D9C28</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6499532D</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64BC7A79</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64C8320A</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64D3E8C1</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65A805B5</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65BF771F</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65D6E4E4</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65EE529E</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>676E7556</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>676E755C</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67794046</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6779404C</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67840494</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6784049A</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>678EC9B2</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>678EC9B8</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC6163</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC6169</tstamp>
+    </comp>
+    <comp ref="Q11">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC616F</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC6175</tstamp>
+    </comp>
+    <comp ref="Q13">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC617B</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC6181</tstamp>
+    </comp>
+    <comp ref="Q15">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC6187</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67DC618D</tstamp>
+    </comp>
+    <comp ref="Q17">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789A8</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789AE</tstamp>
+    </comp>
+    <comp ref="Q19">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789B4</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789BA</tstamp>
+    </comp>
+    <comp ref="Q21">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789C0</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789C6</tstamp>
+    </comp>
+    <comp ref="Q23">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789CC</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67E789D2</tstamp>
+    </comp>
+    <comp ref="Q26">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC564</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC56A</tstamp>
+    </comp>
+    <comp ref="Q28">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC570</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC576</tstamp>
+    </comp>
+    <comp ref="Q30">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC57C</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC582</tstamp>
+    </comp>
+    <comp ref="Q32">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC588</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>684DC58E</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>CD54HC4514</value>
+      <libsource lib="CustomMade" part="CD54HC4514" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8CB0E6</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E15E</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E164</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E16A</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E170</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E176</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E17C</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E182</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E188</tstamp>
+    </comp>
+    <comp ref="Q10">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E191</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E197</tstamp>
+    </comp>
+    <comp ref="Q12">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E19D</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1A3</tstamp>
+    </comp>
+    <comp ref="Q14">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1A9</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1AF</tstamp>
+    </comp>
+    <comp ref="Q16">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1B5</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1BB</tstamp>
+    </comp>
+    <comp ref="Q18">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1C1</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1C7</tstamp>
+    </comp>
+    <comp ref="Q20">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1CD</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1D3</tstamp>
+    </comp>
+    <comp ref="Q22">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1D9</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1DF</tstamp>
+    </comp>
+    <comp ref="Q24">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1E5</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1EB</tstamp>
+    </comp>
+    <comp ref="Q27">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1F9</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E1FF</tstamp>
+    </comp>
+    <comp ref="Q29">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E205</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E20B</tstamp>
+    </comp>
+    <comp ref="Q31">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E211</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E217</tstamp>
+    </comp>
+    <comp ref="Q33">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E21D</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E223</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>CD54HC4514</value>
+      <libsource lib="CustomMade" part="CD54HC4514" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6B19E23A</tstamp>
+    </comp>
+    <comp ref="Q37">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869751</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869757</tstamp>
+    </comp>
+    <comp ref="Q39">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86975D</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869763</tstamp>
+    </comp>
+    <comp ref="Q41">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869769</tstamp>
+    </comp>
+    <comp ref="R81">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86976F</tstamp>
+    </comp>
+    <comp ref="Q43">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869775</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86977B</tstamp>
+    </comp>
+    <comp ref="Q45">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869784</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86978A</tstamp>
+    </comp>
+    <comp ref="Q47">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869790</tstamp>
+    </comp>
+    <comp ref="R87">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869796</tstamp>
+    </comp>
+    <comp ref="Q49">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86979C</tstamp>
+    </comp>
+    <comp ref="R89">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697A2</tstamp>
+    </comp>
+    <comp ref="Q51">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697A8</tstamp>
+    </comp>
+    <comp ref="R91">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697AE</tstamp>
+    </comp>
+    <comp ref="Q53">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697B4</tstamp>
+    </comp>
+    <comp ref="R93">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697BA</tstamp>
+    </comp>
+    <comp ref="Q55">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697C0</tstamp>
+    </comp>
+    <comp ref="R95">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697C6</tstamp>
+    </comp>
+    <comp ref="Q57">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697CC</tstamp>
+    </comp>
+    <comp ref="R97">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697D2</tstamp>
+    </comp>
+    <comp ref="Q59">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697D8</tstamp>
+    </comp>
+    <comp ref="R99">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697DE</tstamp>
+    </comp>
+    <comp ref="Q61">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697EC</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697F2</tstamp>
+    </comp>
+    <comp ref="Q63">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697F8</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C8697FE</tstamp>
+    </comp>
+    <comp ref="Q65">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869804</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86980A</tstamp>
+    </comp>
+    <comp ref="Q67">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869810</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C869816</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>CD54HC4514</value>
+      <libsource lib="CustomMade" part="CD54HC4514" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6C86982D</tstamp>
+    </comp>
+    <comp ref="Q38">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111B3</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111B9</tstamp>
+    </comp>
+    <comp ref="Q40">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111BF</tstamp>
+    </comp>
+    <comp ref="R80">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111C5</tstamp>
+    </comp>
+    <comp ref="Q42">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111CB</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111D1</tstamp>
+    </comp>
+    <comp ref="Q44">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111D7</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111DD</tstamp>
+    </comp>
+    <comp ref="Q46">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111E6</tstamp>
+    </comp>
+    <comp ref="R86">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111EC</tstamp>
+    </comp>
+    <comp ref="Q48">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111F2</tstamp>
+    </comp>
+    <comp ref="R88">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111F8</tstamp>
+    </comp>
+    <comp ref="Q50">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA111FE</tstamp>
+    </comp>
+    <comp ref="R90">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11204</tstamp>
+    </comp>
+    <comp ref="Q52">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1120A</tstamp>
+    </comp>
+    <comp ref="R92">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11210</tstamp>
+    </comp>
+    <comp ref="Q54">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11216</tstamp>
+    </comp>
+    <comp ref="R94">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1121C</tstamp>
+    </comp>
+    <comp ref="Q56">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11222</tstamp>
+    </comp>
+    <comp ref="R96">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11228</tstamp>
+    </comp>
+    <comp ref="Q58">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1122E</tstamp>
+    </comp>
+    <comp ref="R98">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11234</tstamp>
+    </comp>
+    <comp ref="Q60">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1123A</tstamp>
+    </comp>
+    <comp ref="R100">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11240</tstamp>
+    </comp>
+    <comp ref="Q62">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1124E</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11254</tstamp>
+    </comp>
+    <comp ref="Q64">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1125A</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11260</tstamp>
+    </comp>
+    <comp ref="Q66">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11266</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1126C</tstamp>
+    </comp>
+    <comp ref="Q68">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11272</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA11278</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>CD54HC4514</value>
+      <libsource lib="CustomMade" part="CD54HC4514" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CA1128F</tstamp>
+    </comp>
+    <comp ref="Q70">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D07</tstamp>
+    </comp>
+    <comp ref="R126">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D0D</tstamp>
+    </comp>
+    <comp ref="Q72">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D13</tstamp>
+    </comp>
+    <comp ref="R128">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D19</tstamp>
+    </comp>
+    <comp ref="Q74">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D1F</tstamp>
+    </comp>
+    <comp ref="R130">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D25</tstamp>
+    </comp>
+    <comp ref="Q76">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D2B</tstamp>
+    </comp>
+    <comp ref="R132">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D31</tstamp>
+    </comp>
+    <comp ref="Q78">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D3A</tstamp>
+    </comp>
+    <comp ref="R134">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D40</tstamp>
+    </comp>
+    <comp ref="Q80">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D46</tstamp>
+    </comp>
+    <comp ref="R136">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D4C</tstamp>
+    </comp>
+    <comp ref="Q82">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D52</tstamp>
+    </comp>
+    <comp ref="R138">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D58</tstamp>
+    </comp>
+    <comp ref="Q84">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D5E</tstamp>
+    </comp>
+    <comp ref="R140">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D64</tstamp>
+    </comp>
+    <comp ref="Q86">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D6A</tstamp>
+    </comp>
+    <comp ref="R142">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D70</tstamp>
+    </comp>
+    <comp ref="Q88">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D76</tstamp>
+    </comp>
+    <comp ref="R144">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D7C</tstamp>
+    </comp>
+    <comp ref="Q90">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D82</tstamp>
+    </comp>
+    <comp ref="R146">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D88</tstamp>
+    </comp>
+    <comp ref="Q92">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D8E</tstamp>
+    </comp>
+    <comp ref="R148">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5D94</tstamp>
+    </comp>
+    <comp ref="Q94">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DA2</tstamp>
+    </comp>
+    <comp ref="R150">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DA8</tstamp>
+    </comp>
+    <comp ref="Q96">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DAE</tstamp>
+    </comp>
+    <comp ref="R152">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DB4</tstamp>
+    </comp>
+    <comp ref="Q98">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DBA</tstamp>
+    </comp>
+    <comp ref="R154">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DC0</tstamp>
+    </comp>
+    <comp ref="Q100">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DC6</tstamp>
+    </comp>
+    <comp ref="R156">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DCC</tstamp>
+    </comp>
+    <comp ref="U38">
+      <value>CD54HC4514</value>
+      <libsource lib="CustomMade" part="CD54HC4514" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CAF5DE3</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>74HC595</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F8B899B</tstamp>
+    </comp>
+    <comp ref="Q69">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16888</tstamp>
+    </comp>
+    <comp ref="R125">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF1688E</tstamp>
+    </comp>
+    <comp ref="Q71">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16894</tstamp>
+    </comp>
+    <comp ref="R127">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF1689A</tstamp>
+    </comp>
+    <comp ref="Q73">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168A0</tstamp>
+    </comp>
+    <comp ref="R129">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168A6</tstamp>
+    </comp>
+    <comp ref="Q75">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168AC</tstamp>
+    </comp>
+    <comp ref="R131">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168B2</tstamp>
+    </comp>
+    <comp ref="Q77">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168BB</tstamp>
+    </comp>
+    <comp ref="R133">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168C1</tstamp>
+    </comp>
+    <comp ref="Q79">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168C7</tstamp>
+    </comp>
+    <comp ref="R135">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168CD</tstamp>
+    </comp>
+    <comp ref="Q81">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168D3</tstamp>
+    </comp>
+    <comp ref="R137">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168D9</tstamp>
+    </comp>
+    <comp ref="Q83">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168DF</tstamp>
+    </comp>
+    <comp ref="R139">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168E5</tstamp>
+    </comp>
+    <comp ref="Q85">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168EB</tstamp>
+    </comp>
+    <comp ref="R141">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168F1</tstamp>
+    </comp>
+    <comp ref="Q87">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168F7</tstamp>
+    </comp>
+    <comp ref="R143">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF168FD</tstamp>
+    </comp>
+    <comp ref="Q89">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16903</tstamp>
+    </comp>
+    <comp ref="R145">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16909</tstamp>
+    </comp>
+    <comp ref="Q91">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF1690F</tstamp>
+    </comp>
+    <comp ref="R147">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16915</tstamp>
+    </comp>
+    <comp ref="Q93">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16923</tstamp>
+    </comp>
+    <comp ref="R149">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16929</tstamp>
+    </comp>
+    <comp ref="Q95">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF1692F</tstamp>
+    </comp>
+    <comp ref="R151">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16935</tstamp>
+    </comp>
+    <comp ref="Q97">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF1693B</tstamp>
+    </comp>
+    <comp ref="R153">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16941</tstamp>
+    </comp>
+    <comp ref="Q99">
+      <value>PN2222A</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="PN2222A" description="1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16947</tstamp>
+    </comp>
+    <comp ref="R155">
+      <value>4.7k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF1694D</tstamp>
+    </comp>
+    <comp ref="U37">
+      <value>CD54HC4514</value>
+      <libsource lib="CustomMade" part="CD54HC4514" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6CF16964</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FB912A6</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC6A901</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>CC56-12SRWA</value>
+      <footprint>Display_7Segment:CA56-12SRWA</footprint>
+      <datasheet>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</datasheet>
+      <libsource lib="Display_Character" part="CC56-12SRWA" description="4 digit 7 segment super bright red LED, common cathode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FCC6F1D</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE534</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE53A</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE540</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE546</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE54C</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE552</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE558</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>70CBE52E</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB445</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB44B</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB451</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB457</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB45D</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB463</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB469</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>716FB46F</tstamp>
+    </comp>
+    <comp ref="R110">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED62B</tstamp>
+    </comp>
+    <comp ref="R111">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED631</tstamp>
+    </comp>
+    <comp ref="R112">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED637</tstamp>
+    </comp>
+    <comp ref="R113">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED63D</tstamp>
+    </comp>
+    <comp ref="R114">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED643</tstamp>
+    </comp>
+    <comp ref="R115">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED649</tstamp>
+    </comp>
+    <comp ref="R116">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED64F</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>717ED655</tstamp>
+    </comp>
+    <comp ref="R117">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CBB</tstamp>
+    </comp>
+    <comp ref="R118">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CC1</tstamp>
+    </comp>
+    <comp ref="R119">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CC7</tstamp>
+    </comp>
+    <comp ref="R120">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CCD</tstamp>
+    </comp>
+    <comp ref="R121">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CD3</tstamp>
+    </comp>
+    <comp ref="R122">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CD9</tstamp>
+    </comp>
+    <comp ref="R123">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CDF</tstamp>
+    </comp>
+    <comp ref="R124">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71BC9CE5</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A389</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A38F</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A395</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A39B</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A3A1</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A3A7</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A3AD</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>220</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71D4A3B3</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74HC595">
+      <aliases>
+        <alias>74LS595</alias>
+        <alias>74HCT595</alias>
+        <alias>74AHC595</alias>
+        <alias>74AHCT595</alias>
+      </aliases>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*5.3x10.2mm*P1.27mm*</fp>
+        <fp>SOIC*7.5x10.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC595</field>
+      </fields>
+      <pins>
+        <pin num="1" name="QB" type="3state"/>
+        <pin num="2" name="QC" type="3state"/>
+        <pin num="3" name="QD" type="3state"/>
+        <pin num="4" name="QE" type="3state"/>
+        <pin num="5" name="QF" type="3state"/>
+        <pin num="6" name="QG" type="3state"/>
+        <pin num="7" name="QH" type="3state"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="QH'" type="output"/>
+        <pin num="10" name="~SRCLR" type="input"/>
+        <pin num="11" name="SRCLK" type="input"/>
+        <pin num="12" name="RCLK" type="input"/>
+        <pin num="13" name="~OE" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="QA" type="3state"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="CustomMade" part="CD54HC4514">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD54HC4514</field>
+      </fields>
+      <pins>
+        <pin num="~" name="Y12" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="CustomMade" part="ESP8266_WiFi_Module">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP8266_WiFi_Module</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_out"/>
+        <pin num="2" name="TX" type="output"/>
+        <pin num="3" name="GPIO_2" type="BiDi"/>
+        <pin num="4" name="CH_PD" type="input"/>
+        <pin num="5" name="GPIO_0" type="BiDi"/>
+        <pin num="6" name="Reset" type="input"/>
+        <pin num="7" name="RX" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Display_Character" part="CC56-12SRWA">
+      <description>4 digit 7 segment super bright red LED, common cathode</description>
+      <docs>http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12SRWA.pdf</docs>
+      <footprints>
+        <fp>*CA56*12SRWA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CC56-12SRWA</field>
+        <field name="Footprint">Display_7Segment:CA56-12SRWA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="e" type="input"/>
+        <pin num="2" name="d" type="input"/>
+        <pin num="3" name="DPX" type="input"/>
+        <pin num="4" name="c" type="input"/>
+        <pin num="5" name="g" type="input"/>
+        <pin num="6" name="CC4" type="input"/>
+        <pin num="7" name="b" type="input"/>
+        <pin num="8" name="CC3" type="input"/>
+        <pin num="9" name="CC2" type="input"/>
+        <pin num="10" name="f" type="input"/>
+        <pin num="11" name="a" type="input"/>
+        <pin num="12" name="CC1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Module" part="Arduino_UNO_R2">
+      <description>Arduino UNO Microcontroller Module, release 2</description>
+      <docs>https://www.arduino.cc/en/Main/arduinoBoardUno</docs>
+      <footprints>
+        <fp>Arduino*UNO*R2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Arduino_UNO_R2</field>
+        <field name="Footprint">Module:Arduino_UNO_R2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="IOREF" type="output"/>
+        <pin num="3" name="~RESET" type="input"/>
+        <pin num="4" name="3V3" type="power_out"/>
+        <pin num="5" name="+5V" type="power_out"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VIN" type="power_in"/>
+        <pin num="9" name="A0" type="BiDi"/>
+        <pin num="10" name="A1" type="BiDi"/>
+        <pin num="11" name="A2" type="BiDi"/>
+        <pin num="12" name="A3" type="BiDi"/>
+        <pin num="13" name="SDA/A4" type="BiDi"/>
+        <pin num="14" name="SCL/A5" type="BiDi"/>
+        <pin num="15" name="D0/RX" type="BiDi"/>
+        <pin num="16" name="D1/TX" type="BiDi"/>
+        <pin num="17" name="D2" type="BiDi"/>
+        <pin num="18" name="D3" type="BiDi"/>
+        <pin num="19" name="D4" type="BiDi"/>
+        <pin num="20" name="D5" type="BiDi"/>
+        <pin num="21" name="D6" type="BiDi"/>
+        <pin num="22" name="D7" type="BiDi"/>
+        <pin num="23" name="D8" type="BiDi"/>
+        <pin num="24" name="D9" type="BiDi"/>
+        <pin num="25" name="D10" type="BiDi"/>
+        <pin num="26" name="D11" type="BiDi"/>
+        <pin num="27" name="D12" type="BiDi"/>
+        <pin num="28" name="D13" type="BiDi"/>
+        <pin num="29" name="GND" type="power_in"/>
+        <pin num="30" name="AREF" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="PN2222A">
+      <description>1A Ic, 40V Vce, NPN Transistor, General Purpose Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/PN2222-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PN2222A</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>D:\KiCad\share\kicad\library/74xx.lib</uri>
+    </library>
+    <library logical="CustomMade">
+      <uri>D:\KiCad\Projects\DT_Project/CustomMade.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Display_Character">
+      <uri>D:\KiCad\share\kicad\library/Display_Character.lib</uri>
+    </library>
+    <library logical="MCU_Module">
+      <uri>D:\KiCad\share\kicad\library/MCU_Module.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>D:\KiCad\share\kicad\library/Switch.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>D:\KiCad\share\kicad\library/Transistor_BJT.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(Q80-Pad2)">
+      <node ref="Q80" pin="2"/>
+      <node ref="R136" pin="2"/>
+    </net>
+    <net code="2" name="Net-(Q80-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q80" pin="3"/>
+    </net>
+    <net code="3" name="Net-(R136-Pad1)">
+      <node ref="R136" pin="1"/>
+    </net>
+    <net code="4" name="Net-(Q82-Pad2)">
+      <node ref="Q82" pin="2"/>
+      <node ref="R138" pin="2"/>
+    </net>
+    <net code="5" name="Net-(Q82-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q82" pin="3"/>
+    </net>
+    <net code="6" name="Net-(R138-Pad1)">
+      <node ref="R138" pin="1"/>
+    </net>
+    <net code="7" name="Net-(Q84-Pad2)">
+      <node ref="R140" pin="2"/>
+      <node ref="Q84" pin="2"/>
+    </net>
+    <net code="8" name="Net-(Q84-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q84" pin="3"/>
+    </net>
+    <net code="9" name="Net-(R140-Pad1)">
+      <node ref="R140" pin="1"/>
+    </net>
+    <net code="10" name="Net-(Q86-Pad2)">
+      <node ref="Q86" pin="2"/>
+      <node ref="R142" pin="2"/>
+    </net>
+    <net code="11" name="Net-(Q86-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q86" pin="3"/>
+    </net>
+    <net code="12" name="Net-(R142-Pad1)">
+      <node ref="R142" pin="1"/>
+    </net>
+    <net code="13" name="Net-(Q76-Pad2)">
+      <node ref="Q76" pin="2"/>
+      <node ref="R132" pin="2"/>
+    </net>
+    <net code="14" name="Net-(Q74-Pad2)">
+      <node ref="Q74" pin="2"/>
+      <node ref="R130" pin="2"/>
+    </net>
+    <net code="15" name="Net-(Q74-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q74" pin="3"/>
+    </net>
+    <net code="16" name="Net-(R130-Pad1)">
+      <node ref="R130" pin="1"/>
+    </net>
+    <net code="17" name="Net-(Q76-Pad3)">
+      <node ref="Q76" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="18" name="Net-(R132-Pad1)">
+      <node ref="R132" pin="1"/>
+    </net>
+    <net code="19" name="Net-(Q72-Pad3)">
+      <node ref="Q72" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="20" name="Net-(Q78-Pad2)">
+      <node ref="R134" pin="2"/>
+      <node ref="Q78" pin="2"/>
+    </net>
+    <net code="21" name="Net-(Q78-Pad3)">
+      <node ref="Q78" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="22" name="Net-(R134-Pad1)">
+      <node ref="R134" pin="1"/>
+    </net>
+    <net code="23" name="Net-(Q88-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q88" pin="3"/>
+    </net>
+    <net code="24" name="Net-(Q90-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q90" pin="3"/>
+    </net>
+    <net code="25" name="Net-(Q92-Pad3)">
+      <node ref="Q92" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="26" name="Net-(Q94-Pad2)">
+      <node ref="Q94" pin="2"/>
+      <node ref="R150" pin="2"/>
+    </net>
+    <net code="27" name="Net-(R150-Pad1)">
+      <node ref="R150" pin="1"/>
+    </net>
+    <net code="28" name="Net-(Q96-Pad2)">
+      <node ref="R152" pin="2"/>
+      <node ref="Q96" pin="2"/>
+    </net>
+    <net code="29" name="Net-(R152-Pad1)">
+      <node ref="R152" pin="1"/>
+    </net>
+    <net code="30" name="Net-(Q98-Pad2)">
+      <node ref="Q98" pin="2"/>
+      <node ref="R154" pin="2"/>
+    </net>
+    <net code="31" name="Net-(R154-Pad1)">
+      <node ref="R154" pin="1"/>
+    </net>
+    <net code="32" name="Net-(Q90-Pad2)">
+      <node ref="R146" pin="2"/>
+      <node ref="Q90" pin="2"/>
+    </net>
+    <net code="33" name="Net-(Q88-Pad2)">
+      <node ref="Q88" pin="2"/>
+      <node ref="R144" pin="2"/>
+    </net>
+    <net code="34" name="Net-(R144-Pad1)">
+      <node ref="R144" pin="1"/>
+    </net>
+    <net code="35" name="Net-(R146-Pad1)">
+      <node ref="R146" pin="1"/>
+    </net>
+    <net code="36" name="Net-(Q72-Pad2)">
+      <node ref="Q72" pin="2"/>
+      <node ref="R128" pin="2"/>
+    </net>
+    <net code="37" name="Net-(Q92-Pad2)">
+      <node ref="Q92" pin="2"/>
+      <node ref="R148" pin="2"/>
+    </net>
+    <net code="38" name="Net-(R148-Pad1)">
+      <node ref="R148" pin="1"/>
+    </net>
+    <net code="39" name="Net-(R90-Pad1)">
+      <node ref="R90" pin="1"/>
+    </net>
+    <net code="44" name="Net-(R86-Pad1)">
+      <node ref="R86" pin="1"/>
+    </net>
+    <net code="45" name="Net-(R88-Pad1)">
+      <node ref="R88" pin="1"/>
+    </net>
+    <net code="46" name="Net-(R94-Pad1)">
+      <node ref="R94" pin="1"/>
+    </net>
+    <net code="47" name="Net-(R96-Pad1)">
+      <node ref="R96" pin="1"/>
+    </net>
+    <net code="48" name="Net-(R98-Pad1)">
+      <node ref="R98" pin="1"/>
+    </net>
+    <net code="49" name="Net-(R102-Pad1)">
+      <node ref="R102" pin="1"/>
+    </net>
+    <net code="50" name="Net-(R104-Pad1)">
+      <node ref="R104" pin="1"/>
+    </net>
+    <net code="51" name="Net-(R106-Pad1)">
+      <node ref="R106" pin="1"/>
+    </net>
+    <net code="52" name="Net-(Q54-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q54" pin="3"/>
+    </net>
+    <net code="53" name="Net-(Q56-Pad3)">
+      <node ref="Q56" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="54" name="Net-(R78-Pad1)">
+      <node ref="R78" pin="1"/>
+    </net>
+    <net code="55" name="Net-(R80-Pad1)">
+      <node ref="R80" pin="1"/>
+    </net>
+    <net code="56" name="Net-(R82-Pad1)">
+      <node ref="R82" pin="1"/>
+    </net>
+    <net code="57" name="Net-(Q62-Pad1)">
+      <node ref="Q68" pin="1"/>
+      <node ref="Q66" pin="1"/>
+      <node ref="Q64" pin="1"/>
+      <node ref="Q62" pin="1"/>
+    </net>
+    <net code="58" name="Net-(Q70-Pad2)">
+      <node ref="Q70" pin="2"/>
+      <node ref="R126" pin="2"/>
+    </net>
+    <net code="59" name="Net-(Q70-Pad3)">
+      <node ref="Q70" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="60" name="Net-(R126-Pad1)">
+      <node ref="R126" pin="1"/>
+    </net>
+    <net code="61" name="Net-(Q70-Pad1)">
+      <node ref="Q70" pin="1"/>
+      <node ref="Q74" pin="1"/>
+      <node ref="Q76" pin="1"/>
+      <node ref="Q72" pin="1"/>
+    </net>
+    <net code="62" name="Net-(R128-Pad1)">
+      <node ref="R128" pin="1"/>
+    </net>
+    <net code="63" name="Net-(Q54-Pad1)">
+      <node ref="Q60" pin="1"/>
+      <node ref="Q58" pin="1"/>
+      <node ref="Q56" pin="1"/>
+      <node ref="Q54" pin="1"/>
+    </net>
+    <net code="64" name="GND">
+      <node ref="Q34" pin="1"/>
+      <node ref="Q35" pin="1"/>
+      <node ref="Q36" pin="1"/>
+      <node ref="Q4" pin="1"/>
+      <node ref="Q24" pin="1"/>
+      <node ref="Q20" pin="1"/>
+      <node ref="Q22" pin="1"/>
+      <node ref="Q29" pin="1"/>
+      <node ref="Q27" pin="1"/>
+      <node ref="Q10" pin="1"/>
+      <node ref="Q18" pin="1"/>
+      <node ref="Q6" pin="1"/>
+      <node ref="Q8" pin="1"/>
+      <node ref="Q16" pin="1"/>
+      <node ref="Q14" pin="1"/>
+      <node ref="Q12" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="U32" pin="8"/>
+      <node ref="U21" pin="8"/>
+      <node ref="U22" pin="8"/>
+      <node ref="U23" pin="8"/>
+      <node ref="U9" pin="8"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="U31" pin="8"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U16" pin="6"/>
+      <node ref="Q48" pin="1"/>
+      <node ref="Q46" pin="1"/>
+      <node ref="Q79" pin="1"/>
+      <node ref="U16" pin="8"/>
+      <node ref="U8" pin="8"/>
+      <node ref="U7" pin="8"/>
+      <node ref="U6" pin="8"/>
+      <node ref="Q84" pin="1"/>
+      <node ref="Q82" pin="1"/>
+      <node ref="Q80" pin="1"/>
+      <node ref="Q47" pin="1"/>
+      <node ref="U15" pin="~"/>
+      <node ref="Q33" pin="1"/>
+      <node ref="Q37" pin="1"/>
+      <node ref="Q45" pin="1"/>
+      <node ref="Q41" pin="1"/>
+      <node ref="R83" pin="2"/>
+      <node ref="Q43" pin="2"/>
+      <node ref="Q43" pin="1"/>
+      <node ref="Q31" pin="1"/>
+      <node ref="Q78" pin="1"/>
+      <node ref="Q39" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="Q25" pin="1"/>
+      <node ref="Q81" pin="1"/>
+      <node ref="Q83" pin="1"/>
+      <node ref="A1" pin="29"/>
+      <node ref="U37" pin="~"/>
+      <node ref="Q13" pin="1"/>
+      <node ref="Q15" pin="1"/>
+      <node ref="R60" pin="1"/>
+      <node ref="U38" pin="~"/>
+      <node ref="Q11" pin="1"/>
+      <node ref="U30" pin="8"/>
+      <node ref="Q51" pin="2"/>
+      <node ref="Q77" pin="1"/>
+      <node ref="U25" pin="~"/>
+      <node ref="Q65" pin="1"/>
+      <node ref="Q63" pin="1"/>
+      <node ref="Q61" pin="1"/>
+      <node ref="Q51" pin="1"/>
+      <node ref="Q9" pin="1"/>
+      <node ref="Q49" pin="1"/>
+      <node ref="R91" pin="2"/>
+      <node ref="Q53" pin="1"/>
+      <node ref="Q67" pin="1"/>
+      <node ref="Q67" pin="2"/>
+      <node ref="R107" pin="2"/>
+      <node ref="R99" pin="2"/>
+      <node ref="Q50" pin="1"/>
+      <node ref="Q57" pin="1"/>
+      <node ref="U14" pin="~"/>
+      <node ref="Q55" pin="1"/>
+      <node ref="Q59" pin="2"/>
+      <node ref="U24" pin="~"/>
+      <node ref="R59" pin="1"/>
+      <node ref="Q59" pin="1"/>
+      <node ref="Q52" pin="1"/>
+    </net>
+    <net code="65" name="Net-(Q100-Pad1)">
+      <node ref="Q94" pin="1"/>
+      <node ref="Q100" pin="1"/>
+      <node ref="Q96" pin="1"/>
+      <node ref="Q98" pin="1"/>
+    </net>
+    <net code="66" name="Net-(U30-Pad1)">
+      <node ref="U37" pin="~"/>
+      <node ref="U30" pin="1"/>
+    </net>
+    <net code="67" name="Net-(U30-Pad10)">
+      <node ref="U30" pin="10"/>
+    </net>
+    <net code="68" name="Net-(U30-Pad12)">
+      <node ref="U30" pin="12"/>
+    </net>
+    <net code="69" name="Net-(Q86-Pad1)">
+      <node ref="Q86" pin="1"/>
+      <node ref="Q90" pin="1"/>
+      <node ref="Q88" pin="1"/>
+      <node ref="Q92" pin="1"/>
+    </net>
+    <net code="70" name="Net-(Q75-Pad2)">
+      <node ref="Q75" pin="2"/>
+      <node ref="R131" pin="2"/>
+    </net>
+    <net code="71" name="Net-(Q73-Pad2)">
+      <node ref="R129" pin="2"/>
+      <node ref="Q73" pin="2"/>
+    </net>
+    <net code="72" name="Net-(Q73-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q73" pin="3"/>
+    </net>
+    <net code="73" name="Net-(R129-Pad1)">
+      <node ref="R129" pin="1"/>
+    </net>
+    <net code="74" name="Net-(Q75-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q75" pin="3"/>
+    </net>
+    <net code="75" name="Net-(R131-Pad1)">
+      <node ref="R131" pin="1"/>
+    </net>
+    <net code="76" name="Net-(Q71-Pad2)">
+      <node ref="R127" pin="2"/>
+      <node ref="Q71" pin="2"/>
+    </net>
+    <net code="77" name="Net-(Q71-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q71" pin="3"/>
+    </net>
+    <net code="78" name="Net-(Q77-Pad2)">
+      <node ref="Q77" pin="2"/>
+      <node ref="R133" pin="2"/>
+    </net>
+    <net code="79" name="Net-(R133-Pad1)">
+      <node ref="R133" pin="1"/>
+    </net>
+    <net code="80" name="Net-(Q69-Pad1)">
+      <node ref="Q71" pin="1"/>
+      <node ref="Q69" pin="1"/>
+      <node ref="Q75" pin="1"/>
+      <node ref="Q73" pin="1"/>
+    </net>
+    <net code="81" name="Net-(U30-Pad3)">
+      <node ref="U30" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="82" name="Net-(U30-Pad5)">
+      <node ref="U30" pin="5"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="83" name="Net-(U30-Pad7)">
+      <node ref="U38" pin="~"/>
+      <node ref="U30" pin="7"/>
+    </net>
+    <net code="84" name="Net-(Q69-Pad2)">
+      <node ref="R125" pin="2"/>
+      <node ref="Q69" pin="2"/>
+    </net>
+    <net code="85" name="Net-(Q69-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q69" pin="3"/>
+    </net>
+    <net code="86" name="Net-(R125-Pad1)">
+      <node ref="R125" pin="1"/>
+    </net>
+    <net code="87" name="Net-(R127-Pad1)">
+      <node ref="R127" pin="1"/>
+    </net>
+    <net code="88" name="Net-(U30-Pad6)">
+      <node ref="U38" pin="~"/>
+      <node ref="U30" pin="6"/>
+    </net>
+    <net code="89" name="+5V">
+      <node ref="A1" pin="5"/>
+      <node ref="U21" pin="16"/>
+      <node ref="U38" pin="~"/>
+      <node ref="U7" pin="16"/>
+      <node ref="U32" pin="16"/>
+      <node ref="U23" pin="16"/>
+      <node ref="U25" pin="~"/>
+      <node ref="U22" pin="16"/>
+      <node ref="U31" pin="16"/>
+      <node ref="U9" pin="16"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U30" pin="16"/>
+      <node ref="U15" pin="~"/>
+      <node ref="U37" pin="~"/>
+      <node ref="U14" pin="~"/>
+      <node ref="U24" pin="~"/>
+      <node ref="U6" pin="16"/>
+      <node ref="U8" pin="16"/>
+    </net>
+    <net code="90" name="Net-(U30-Pad4)">
+      <node ref="U38" pin="~"/>
+      <node ref="U30" pin="4"/>
+    </net>
+    <net code="91" name="Net-(Q94-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q94" pin="3"/>
+    </net>
+    <net code="92" name="Net-(Q96-Pad3)">
+      <node ref="U38" pin="~"/>
+      <node ref="Q96" pin="3"/>
+    </net>
+    <net code="93" name="Net-(Q98-Pad3)">
+      <node ref="Q98" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="94" name="Net-(Q100-Pad2)">
+      <node ref="R156" pin="2"/>
+      <node ref="Q100" pin="2"/>
+    </net>
+    <net code="95" name="Net-(Q100-Pad3)">
+      <node ref="Q100" pin="3"/>
+      <node ref="U38" pin="~"/>
+    </net>
+    <net code="96" name="Net-(R156-Pad1)">
+      <node ref="R156" pin="1"/>
+    </net>
+    <net code="97" name="Net-(Q52-Pad3)">
+      <node ref="Q52" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="98" name="Net-(Q49-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q49" pin="3"/>
+    </net>
+    <net code="99" name="Net-(Q51-Pad3)">
+      <node ref="Q51" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="100" name="Net-(Q53-Pad3)">
+      <node ref="Q53" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="101" name="Net-(Q47-Pad3)">
+      <node ref="Q47" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="102" name="Net-(R77-Pad1)">
+      <node ref="R77" pin="1"/>
+    </net>
+    <net code="103" name="Net-(R79-Pad1)">
+      <node ref="R79" pin="1"/>
+    </net>
+    <net code="104" name="Net-(R81-Pad1)">
+      <node ref="R81" pin="1"/>
+    </net>
+    <net code="105" name="Net-(Q37-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q37" pin="3"/>
+    </net>
+    <net code="106" name="Net-(Q39-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q39" pin="3"/>
+    </net>
+    <net code="107" name="Net-(Q61-Pad3)">
+      <node ref="Q61" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="108" name="Net-(Q63-Pad3)">
+      <node ref="Q63" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="109" name="Net-(Q65-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q65" pin="3"/>
+    </net>
+    <net code="110" name="Net-(Q45-Pad3)">
+      <node ref="Q45" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="111" name="Net-(R85-Pad1)">
+      <node ref="R85" pin="1"/>
+    </net>
+    <net code="112" name="Net-(U21-Pad15)">
+      <node ref="U21" pin="15"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="113" name="Net-(R87-Pad1)">
+      <node ref="R87" pin="1"/>
+    </net>
+    <net code="114" name="Net-(R89-Pad1)">
+      <node ref="R89" pin="1"/>
+    </net>
+    <net code="115" name="Net-(R93-Pad1)">
+      <node ref="R93" pin="1"/>
+    </net>
+    <net code="116" name="Net-(R95-Pad1)">
+      <node ref="R95" pin="1"/>
+    </net>
+    <net code="117" name="Net-(R97-Pad1)">
+      <node ref="R97" pin="1"/>
+    </net>
+    <net code="118" name="Net-(R101-Pad1)">
+      <node ref="R101" pin="1"/>
+    </net>
+    <net code="119" name="Net-(R103-Pad1)">
+      <node ref="R103" pin="1"/>
+    </net>
+    <net code="120" name="Net-(R105-Pad1)">
+      <node ref="R105" pin="1"/>
+    </net>
+    <net code="121" name="Net-(Q55-Pad2)">
+      <node ref="Q55" pin="2"/>
+      <node ref="R95" pin="2"/>
+    </net>
+    <net code="122" name="Net-(Q55-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q55" pin="3"/>
+    </net>
+    <net code="123" name="Net-(Q57-Pad2)">
+      <node ref="Q57" pin="2"/>
+      <node ref="R97" pin="2"/>
+    </net>
+    <net code="124" name="Net-(Q57-Pad3)">
+      <node ref="Q57" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="125" name="Net-(Q59-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q59" pin="3"/>
+    </net>
+    <net code="126" name="Net-(R99-Pad1)">
+      <node ref="R99" pin="1"/>
+    </net>
+    <net code="127" name="Net-(Q47-Pad2)">
+      <node ref="R87" pin="2"/>
+      <node ref="Q47" pin="2"/>
+    </net>
+    <net code="128" name="Net-(Q49-Pad2)">
+      <node ref="Q49" pin="2"/>
+      <node ref="R89" pin="2"/>
+    </net>
+    <net code="129" name="Net-(R91-Pad1)">
+      <node ref="R91" pin="1"/>
+    </net>
+    <net code="130" name="Net-(Q53-Pad2)">
+      <node ref="R93" pin="2"/>
+      <node ref="Q53" pin="2"/>
+    </net>
+    <net code="131" name="Net-(Q67-Pad3)">
+      <node ref="Q67" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="132" name="Net-(R107-Pad1)">
+      <node ref="R107" pin="1"/>
+    </net>
+    <net code="133" name="Net-(Q65-Pad2)">
+      <node ref="R105" pin="2"/>
+      <node ref="Q65" pin="2"/>
+    </net>
+    <net code="134" name="Net-(Q61-Pad2)">
+      <node ref="R101" pin="2"/>
+      <node ref="Q61" pin="2"/>
+    </net>
+    <net code="135" name="Net-(Q63-Pad2)">
+      <node ref="Q63" pin="2"/>
+      <node ref="R103" pin="2"/>
+    </net>
+    <net code="136" name="Net-(Q60-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q60" pin="3"/>
+    </net>
+    <net code="137" name="Net-(Q62-Pad2)">
+      <node ref="Q62" pin="2"/>
+      <node ref="R102" pin="2"/>
+    </net>
+    <net code="138" name="Net-(Q64-Pad2)">
+      <node ref="R104" pin="2"/>
+      <node ref="Q64" pin="2"/>
+    </net>
+    <net code="139" name="Net-(Q58-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q58" pin="3"/>
+    </net>
+    <net code="140" name="Net-(Q66-Pad2)">
+      <node ref="Q66" pin="2"/>
+      <node ref="R106" pin="2"/>
+    </net>
+    <net code="141" name="Net-(Q68-Pad2)">
+      <node ref="Q68" pin="2"/>
+      <node ref="R108" pin="2"/>
+    </net>
+    <net code="142" name="Net-(Q56-Pad2)">
+      <node ref="R96" pin="2"/>
+      <node ref="Q56" pin="2"/>
+    </net>
+    <net code="143" name="Net-(Q58-Pad2)">
+      <node ref="Q58" pin="2"/>
+      <node ref="R98" pin="2"/>
+    </net>
+    <net code="144" name="Net-(Q60-Pad2)">
+      <node ref="Q60" pin="2"/>
+      <node ref="R100" pin="2"/>
+    </net>
+    <net code="145" name="Net-(R100-Pad1)">
+      <node ref="R100" pin="1"/>
+    </net>
+    <net code="146" name="Net-(Q46-Pad3)">
+      <node ref="Q46" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="147" name="Net-(Q48-Pad3)">
+      <node ref="Q48" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="148" name="Net-(Q50-Pad3)">
+      <node ref="Q50" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="149" name="Net-(Q62-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q62" pin="3"/>
+    </net>
+    <net code="150" name="Net-(Q38-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q38" pin="3"/>
+    </net>
+    <net code="151" name="Net-(U21-Pad6)">
+      <node ref="U21" pin="6"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="152" name="Net-(Q64-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q64" pin="3"/>
+    </net>
+    <net code="153" name="Net-(Q66-Pad3)">
+      <node ref="Q66" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="154" name="Net-(Q68-Pad3)">
+      <node ref="Q68" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="155" name="Net-(Q44-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q44" pin="3"/>
+    </net>
+    <net code="156" name="Net-(R108-Pad1)">
+      <node ref="R108" pin="1"/>
+    </net>
+    <net code="157" name="Net-(Q38-Pad1)">
+      <node ref="Q42" pin="1"/>
+      <node ref="Q40" pin="1"/>
+      <node ref="Q38" pin="1"/>
+      <node ref="Q44" pin="1"/>
+    </net>
+    <net code="158" name="Net-(U21-Pad4)">
+      <node ref="U25" pin="~"/>
+      <node ref="U21" pin="4"/>
+    </net>
+    <net code="159" name="Net-(Q38-Pad2)">
+      <node ref="Q38" pin="2"/>
+      <node ref="R78" pin="2"/>
+    </net>
+    <net code="160" name="Net-(Q40-Pad2)">
+      <node ref="R80" pin="2"/>
+      <node ref="Q40" pin="2"/>
+    </net>
+    <net code="161" name="Net-(Q40-Pad3)">
+      <node ref="U25" pin="~"/>
+      <node ref="Q40" pin="3"/>
+    </net>
+    <net code="162" name="Net-(Q42-Pad2)">
+      <node ref="Q42" pin="2"/>
+      <node ref="R82" pin="2"/>
+    </net>
+    <net code="163" name="Net-(Q42-Pad3)">
+      <node ref="Q42" pin="3"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="164" name="Net-(R92-Pad1)">
+      <node ref="R92" pin="1"/>
+    </net>
+    <net code="165" name="Net-(Q48-Pad2)">
+      <node ref="Q48" pin="2"/>
+      <node ref="R88" pin="2"/>
+    </net>
+    <net code="166" name="Net-(Q50-Pad2)">
+      <node ref="R90" pin="2"/>
+      <node ref="Q50" pin="2"/>
+    </net>
+    <net code="167" name="Net-(Q52-Pad2)">
+      <node ref="Q52" pin="2"/>
+      <node ref="R92" pin="2"/>
+    </net>
+    <net code="168" name="Net-(Q54-Pad2)">
+      <node ref="R94" pin="2"/>
+      <node ref="Q54" pin="2"/>
+    </net>
+    <net code="169" name="Net-(Q44-Pad2)">
+      <node ref="R84" pin="2"/>
+      <node ref="Q44" pin="2"/>
+    </net>
+    <net code="170" name="Net-(R84-Pad1)">
+      <node ref="R84" pin="1"/>
+    </net>
+    <net code="171" name="Net-(Q46-Pad2)">
+      <node ref="Q46" pin="2"/>
+      <node ref="R86" pin="2"/>
+    </net>
+    <net code="172" name="Net-(R124-Pad1)">
+      <node ref="U32" pin="7"/>
+      <node ref="R124" pin="1"/>
+    </net>
+    <net code="173" name="Net-(R117-Pad1)">
+      <node ref="R117" pin="1"/>
+      <node ref="U32" pin="15"/>
+    </net>
+    <net code="174" name="Net-(R118-Pad1)">
+      <node ref="U32" pin="1"/>
+      <node ref="R118" pin="1"/>
+    </net>
+    <net code="175" name="Net-(R119-Pad1)">
+      <node ref="R119" pin="1"/>
+      <node ref="U32" pin="2"/>
+    </net>
+    <net code="176" name="Net-(R120-Pad1)">
+      <node ref="R120" pin="1"/>
+      <node ref="U32" pin="3"/>
+    </net>
+    <net code="177" name="Net-(R121-Pad1)">
+      <node ref="R121" pin="1"/>
+      <node ref="U32" pin="4"/>
+    </net>
+    <net code="178" name="Net-(R122-Pad1)">
+      <node ref="U32" pin="5"/>
+      <node ref="R122" pin="1"/>
+    </net>
+    <net code="179" name="Net-(R123-Pad1)">
+      <node ref="U32" pin="6"/>
+      <node ref="R123" pin="1"/>
+    </net>
+    <net code="180" name="Net-(R109-Pad2)">
+      <node ref="R109" pin="2"/>
+    </net>
+    <net code="181" name="Net-(R117-Pad2)">
+      <node ref="R117" pin="2"/>
+    </net>
+    <net code="182" name="Net-(R118-Pad2)">
+      <node ref="R118" pin="2"/>
+    </net>
+    <net code="183" name="Net-(R119-Pad2)">
+      <node ref="R119" pin="2"/>
+    </net>
+    <net code="184" name="Net-(R120-Pad2)">
+      <node ref="R120" pin="2"/>
+    </net>
+    <net code="185" name="Net-(R113-Pad1)">
+      <node ref="R113" pin="1"/>
+      <node ref="U31" pin="4"/>
+    </net>
+    <net code="186" name="Net-(R68-Pad2)">
+      <node ref="R68" pin="2"/>
+    </net>
+    <net code="187" name="Net-(R61-Pad1)">
+      <node ref="U22" pin="15"/>
+      <node ref="R61" pin="1"/>
+    </net>
+    <net code="188" name="Net-(R61-Pad2)">
+      <node ref="R61" pin="2"/>
+    </net>
+    <net code="189" name="Net-(R110-Pad1)">
+      <node ref="U31" pin="1"/>
+      <node ref="R110" pin="1"/>
+    </net>
+    <net code="190" name="Net-(R110-Pad2)">
+      <node ref="R110" pin="2"/>
+    </net>
+    <net code="191" name="Net-(R111-Pad1)">
+      <node ref="U31" pin="2"/>
+      <node ref="R111" pin="1"/>
+    </net>
+    <net code="192" name="Net-(R111-Pad2)">
+      <node ref="R111" pin="2"/>
+    </net>
+    <net code="193" name="Net-(R112-Pad1)">
+      <node ref="R112" pin="1"/>
+      <node ref="U31" pin="3"/>
+    </net>
+    <net code="194" name="Net-(R112-Pad2)">
+      <node ref="R112" pin="2"/>
+    </net>
+    <net code="195" name="Net-(R113-Pad2)">
+      <node ref="R113" pin="2"/>
+    </net>
+    <net code="196" name="Net-(R114-Pad1)">
+      <node ref="U31" pin="5"/>
+      <node ref="R114" pin="1"/>
+    </net>
+    <net code="197" name="Net-(R114-Pad2)">
+      <node ref="R114" pin="2"/>
+    </net>
+    <net code="198" name="Net-(R115-Pad1)">
+      <node ref="U31" pin="6"/>
+      <node ref="R115" pin="1"/>
+    </net>
+    <net code="199" name="Net-(R115-Pad2)">
+      <node ref="R115" pin="2"/>
+    </net>
+    <net code="200" name="Net-(R116-Pad1)">
+      <node ref="R116" pin="1"/>
+      <node ref="U31" pin="7"/>
+    </net>
+    <net code="201" name="Net-(R116-Pad2)">
+      <node ref="R116" pin="2"/>
+    </net>
+    <net code="202" name="Net-(R109-Pad1)">
+      <node ref="R109" pin="1"/>
+      <node ref="U31" pin="15"/>
+    </net>
+    <net code="203" name="Net-(R75-Pad2)">
+      <node ref="R75" pin="2"/>
+    </net>
+    <net code="204" name="Net-(R71-Pad1)">
+      <node ref="R71" pin="1"/>
+      <node ref="U23" pin="2"/>
+    </net>
+    <net code="205" name="Net-(R71-Pad2)">
+      <node ref="R71" pin="2"/>
+    </net>
+    <net code="206" name="Net-(R72-Pad1)">
+      <node ref="U23" pin="3"/>
+      <node ref="R72" pin="1"/>
+    </net>
+    <net code="207" name="Net-(R72-Pad2)">
+      <node ref="R72" pin="2"/>
+    </net>
+    <net code="208" name="Net-(R73-Pad1)">
+      <node ref="U23" pin="4"/>
+      <node ref="R73" pin="1"/>
+    </net>
+    <net code="209" name="Net-(R73-Pad2)">
+      <node ref="R73" pin="2"/>
+    </net>
+    <net code="210" name="Net-(R74-Pad1)">
+      <node ref="U23" pin="5"/>
+      <node ref="R74" pin="1"/>
+    </net>
+    <net code="211" name="Net-(R74-Pad2)">
+      <node ref="R74" pin="2"/>
+    </net>
+    <net code="212" name="Net-(R75-Pad1)">
+      <node ref="U23" pin="6"/>
+      <node ref="R75" pin="1"/>
+    </net>
+    <net code="213" name="Net-(R70-Pad2)">
+      <node ref="R70" pin="2"/>
+    </net>
+    <net code="214" name="Net-(R76-Pad1)">
+      <node ref="U23" pin="7"/>
+      <node ref="R76" pin="1"/>
+    </net>
+    <net code="215" name="Net-(R76-Pad2)">
+      <node ref="R76" pin="2"/>
+    </net>
+    <net code="216" name="Net-(U21-Pad7)">
+      <node ref="U21" pin="7"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="217" name="Net-(R121-Pad2)">
+      <node ref="R121" pin="2"/>
+    </net>
+    <net code="218" name="Net-(R122-Pad2)">
+      <node ref="R122" pin="2"/>
+    </net>
+    <net code="219" name="Net-(R123-Pad2)">
+      <node ref="R123" pin="2"/>
+    </net>
+    <net code="220" name="Net-(R124-Pad2)">
+      <node ref="R124" pin="2"/>
+    </net>
+    <net code="221" name="Net-(R69-Pad1)">
+      <node ref="R69" pin="1"/>
+      <node ref="U23" pin="15"/>
+    </net>
+    <net code="222" name="Net-(R70-Pad1)">
+      <node ref="R70" pin="1"/>
+      <node ref="U23" pin="1"/>
+    </net>
+    <net code="223" name="Net-(R68-Pad1)">
+      <node ref="R68" pin="1"/>
+      <node ref="U22" pin="7"/>
+    </net>
+    <net code="224" name="Net-(R69-Pad2)">
+      <node ref="R69" pin="2"/>
+    </net>
+    <net code="225" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="226" name="Net-(R2-Pad1)">
+      <node ref="U7" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="227" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="228" name="Net-(R3-Pad1)">
+      <node ref="U7" pin="2"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="229" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="230" name="Net-(R4-Pad1)">
+      <node ref="U7" pin="3"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="231" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="232" name="Net-(R5-Pad1)">
+      <node ref="U7" pin="4"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="233" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="234" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="235" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="236" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="237" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="U7" pin="7"/>
+    </net>
+    <net code="238" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="239" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="U7" pin="15"/>
+    </net>
+    <net code="240" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="241" name="Net-(U30-Pad9)">
+      <node ref="U31" pin="14"/>
+      <node ref="U30" pin="9"/>
+    </net>
+    <net code="242" name="Net-(R63-Pad2)">
+      <node ref="R63" pin="2"/>
+    </net>
+    <net code="243" name="Net-(U14-Pad~)">
+      <node ref="U14" pin="~"/>
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="244" name="Net-(U14-Pad~)">
+      <node ref="U6" pin="15"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="245" name="Net-(R62-Pad1)">
+      <node ref="U22" pin="1"/>
+      <node ref="R62" pin="1"/>
+    </net>
+    <net code="246" name="Net-(R62-Pad2)">
+      <node ref="R62" pin="2"/>
+    </net>
+    <net code="247" name="Net-(R63-Pad1)">
+      <node ref="R63" pin="1"/>
+      <node ref="U22" pin="2"/>
+    </net>
+    <net code="248" name="Net-(R64-Pad1)">
+      <node ref="R64" pin="1"/>
+      <node ref="U22" pin="3"/>
+    </net>
+    <net code="249" name="Net-(R64-Pad2)">
+      <node ref="R64" pin="2"/>
+    </net>
+    <net code="250" name="Net-(R65-Pad1)">
+      <node ref="R65" pin="1"/>
+      <node ref="U22" pin="4"/>
+    </net>
+    <net code="251" name="Net-(R65-Pad2)">
+      <node ref="R65" pin="2"/>
+    </net>
+    <net code="252" name="Net-(R66-Pad1)">
+      <node ref="R66" pin="1"/>
+      <node ref="U22" pin="5"/>
+    </net>
+    <net code="253" name="Net-(R66-Pad2)">
+      <node ref="R66" pin="2"/>
+    </net>
+    <net code="254" name="Net-(R67-Pad1)">
+      <node ref="R67" pin="1"/>
+      <node ref="U22" pin="6"/>
+    </net>
+    <net code="255" name="Net-(R67-Pad2)">
+      <node ref="R67" pin="2"/>
+    </net>
+    <net code="256" name="Net-(U15-Pad~)">
+      <node ref="U15" pin="~"/>
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="257" name="Net-(U15-Pad~)">
+      <node ref="U6" pin="6"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="258" name="Net-(U15-Pad~)">
+      <node ref="U15" pin="~"/>
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="259" name="Net-(U21-Pad5)">
+      <node ref="U21" pin="5"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="260" name="Net-(U15-Pad~)">
+      <node ref="U6" pin="4"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="261" name="Net-(U14-Pad~)">
+      <node ref="U6" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="262" name="Net-(U14-Pad~)">
+      <node ref="U14" pin="~"/>
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="263" name="Net-(U21-Pad2)">
+      <node ref="U21" pin="2"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="264" name="Net-(U21-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="U21" pin="3"/>
+    </net>
+    <net code="265" name="Net-(U21-Pad1)">
+      <node ref="U21" pin="1"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="266" name="Net-(U30-Pad15)">
+      <node ref="U30" pin="15"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="267" name="Net-(U30-Pad2)">
+      <node ref="U30" pin="2"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="268" name="Net-(Q79-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q79" pin="3"/>
+    </net>
+    <net code="269" name="Net-(Q81-Pad3)">
+      <node ref="Q81" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="270" name="Net-(Q83-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q83" pin="3"/>
+    </net>
+    <net code="271" name="Net-(Q77-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q77" pin="3"/>
+    </net>
+    <net code="272" name="Net-(Q93-Pad3)">
+      <node ref="Q93" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="273" name="Net-(Q95-Pad3)">
+      <node ref="Q95" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="274" name="Net-(Q97-Pad3)">
+      <node ref="Q97" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="275" name="Net-(Q99-Pad3)">
+      <node ref="Q99" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="276" name="Net-(R153-Pad1)">
+      <node ref="R153" pin="1"/>
+    </net>
+    <net code="277" name="Net-(Q85-Pad1)">
+      <node ref="Q85" pin="1"/>
+      <node ref="Q91" pin="1"/>
+      <node ref="Q89" pin="1"/>
+      <node ref="Q87" pin="1"/>
+    </net>
+    <net code="278" name="Net-(R135-Pad1)">
+      <node ref="R135" pin="1"/>
+    </net>
+    <net code="279" name="Net-(R137-Pad1)">
+      <node ref="R137" pin="1"/>
+    </net>
+    <net code="280" name="Net-(R141-Pad1)">
+      <node ref="R141" pin="1"/>
+    </net>
+    <net code="281" name="Net-(R143-Pad1)">
+      <node ref="R143" pin="1"/>
+    </net>
+    <net code="282" name="Net-(R145-Pad1)">
+      <node ref="R145" pin="1"/>
+    </net>
+    <net code="283" name="Net-(R149-Pad1)">
+      <node ref="R149" pin="1"/>
+    </net>
+    <net code="284" name="Net-(R151-Pad1)">
+      <node ref="R151" pin="1"/>
+    </net>
+    <net code="285" name="Net-(Q89-Pad2)">
+      <node ref="Q89" pin="2"/>
+      <node ref="R145" pin="2"/>
+    </net>
+    <net code="286" name="Net-(Q87-Pad2)">
+      <node ref="R143" pin="2"/>
+      <node ref="Q87" pin="2"/>
+    </net>
+    <net code="287" name="Net-(Q87-Pad3)">
+      <node ref="Q87" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="288" name="Net-(Q89-Pad3)">
+      <node ref="Q89" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="289" name="Net-(Q85-Pad2)">
+      <node ref="Q85" pin="2"/>
+      <node ref="R141" pin="2"/>
+    </net>
+    <net code="290" name="Net-(Q91-Pad2)">
+      <node ref="Q91" pin="2"/>
+      <node ref="R147" pin="2"/>
+    </net>
+    <net code="291" name="Net-(Q91-Pad3)">
+      <node ref="U37" pin="~"/>
+      <node ref="Q91" pin="3"/>
+    </net>
+    <net code="292" name="Net-(R147-Pad1)">
+      <node ref="R147" pin="1"/>
+    </net>
+    <net code="293" name="Net-(Q79-Pad2)">
+      <node ref="Q79" pin="2"/>
+      <node ref="R135" pin="2"/>
+    </net>
+    <net code="294" name="Net-(Q81-Pad2)">
+      <node ref="R137" pin="2"/>
+      <node ref="Q81" pin="2"/>
+    </net>
+    <net code="295" name="Net-(Q83-Pad2)">
+      <node ref="Q83" pin="2"/>
+      <node ref="R139" pin="2"/>
+    </net>
+    <net code="296" name="Net-(R139-Pad1)">
+      <node ref="R139" pin="1"/>
+    </net>
+    <net code="297" name="Net-(Q85-Pad3)">
+      <node ref="Q85" pin="3"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="298" name="Net-(Q97-Pad2)">
+      <node ref="R153" pin="2"/>
+      <node ref="Q97" pin="2"/>
+    </net>
+    <net code="299" name="Net-(Q99-Pad2)">
+      <node ref="R155" pin="2"/>
+      <node ref="Q99" pin="2"/>
+    </net>
+    <net code="300" name="Net-(R155-Pad1)">
+      <node ref="R155" pin="1"/>
+    </net>
+    <net code="301" name="Net-(Q93-Pad2)">
+      <node ref="R149" pin="2"/>
+      <node ref="Q93" pin="2"/>
+    </net>
+    <net code="302" name="Net-(Q95-Pad2)">
+      <node ref="R151" pin="2"/>
+      <node ref="Q95" pin="2"/>
+    </net>
+    <net code="303" name="Net-(U35-Pad8)">
+      <node ref="U35" pin="8"/>
+    </net>
+    <net code="304" name="Net-(U28-Pad12)">
+      <node ref="U28" pin="12"/>
+    </net>
+    <net code="305" name="Net-(U27-Pad6)">
+      <node ref="U27" pin="6"/>
+    </net>
+    <net code="306" name="Net-(U27-Pad8)">
+      <node ref="U27" pin="8"/>
+    </net>
+    <net code="307" name="Net-(U27-Pad9)">
+      <node ref="U27" pin="9"/>
+    </net>
+    <net code="308" name="Net-(U27-Pad12)">
+      <node ref="U27" pin="12"/>
+    </net>
+    <net code="309" name="Net-(U26-Pad6)">
+      <node ref="U26" pin="6"/>
+    </net>
+    <net code="310" name="Net-(U26-Pad8)">
+      <node ref="U26" pin="8"/>
+    </net>
+    <net code="311" name="Net-(U26-Pad9)">
+      <node ref="U26" pin="9"/>
+    </net>
+    <net code="312" name="Net-(U26-Pad12)">
+      <node ref="U26" pin="12"/>
+    </net>
+    <net code="313" name="Net-(U28-Pad9)">
+      <node ref="U28" pin="9"/>
+    </net>
+    <net code="314" name="Net-(U35-Pad6)">
+      <node ref="U35" pin="6"/>
+    </net>
+    <net code="315" name="Net-(U35-Pad9)">
+      <node ref="U35" pin="9"/>
+    </net>
+    <net code="316" name="Net-(U35-Pad12)">
+      <node ref="U35" pin="12"/>
+    </net>
+    <net code="317" name="Net-(U34-Pad6)">
+      <node ref="U34" pin="6"/>
+    </net>
+    <net code="318" name="Net-(U34-Pad8)">
+      <node ref="U34" pin="8"/>
+    </net>
+    <net code="319" name="Net-(U34-Pad9)">
+      <node ref="U34" pin="9"/>
+    </net>
+    <net code="320" name="Net-(U34-Pad12)">
+      <node ref="U34" pin="12"/>
+    </net>
+    <net code="321" name="Net-(U33-Pad6)">
+      <node ref="U33" pin="6"/>
+    </net>
+    <net code="322" name="Net-(U18-Pad8)">
+      <node ref="U18" pin="8"/>
+    </net>
+    <net code="323" name="Net-(U10-Pad6)">
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="324" name="Net-(U10-Pad8)">
+      <node ref="U10" pin="8"/>
+    </net>
+    <net code="325" name="Net-(U10-Pad9)">
+      <node ref="U10" pin="9"/>
+    </net>
+    <net code="326" name="Net-(U10-Pad12)">
+      <node ref="U10" pin="12"/>
+    </net>
+    <net code="327" name="Net-(U19-Pad8)">
+      <node ref="U19" pin="8"/>
+    </net>
+    <net code="328" name="Net-(U19-Pad6)">
+      <node ref="U19" pin="6"/>
+    </net>
+    <net code="329" name="Net-(U19-Pad9)">
+      <node ref="U19" pin="9"/>
+    </net>
+    <net code="330" name="Net-(U19-Pad12)">
+      <node ref="U19" pin="12"/>
+    </net>
+    <net code="331" name="Net-(U18-Pad6)">
+      <node ref="U18" pin="6"/>
+    </net>
+    <net code="332" name="Net-(U33-Pad8)">
+      <node ref="U33" pin="8"/>
+    </net>
+    <net code="333" name="Net-(U18-Pad9)">
+      <node ref="U18" pin="9"/>
+    </net>
+    <net code="334" name="Net-(U18-Pad12)">
+      <node ref="U18" pin="12"/>
+    </net>
+    <net code="335" name="Net-(U17-Pad6)">
+      <node ref="U17" pin="6"/>
+    </net>
+    <net code="336" name="Net-(U17-Pad8)">
+      <node ref="U17" pin="8"/>
+    </net>
+    <net code="337" name="Net-(U17-Pad9)">
+      <node ref="U17" pin="9"/>
+    </net>
+    <net code="338" name="Net-(U17-Pad12)">
+      <node ref="U17" pin="12"/>
+    </net>
+    <net code="339" name="Net-(U28-Pad8)">
+      <node ref="U28" pin="8"/>
+    </net>
+    <net code="340" name="Net-(U28-Pad6)">
+      <node ref="U28" pin="6"/>
+    </net>
+    <net code="341" name="Net-(U40-Pad9)">
+      <node ref="U40" pin="9"/>
+    </net>
+    <net code="342" name="Net-(U33-Pad9)">
+      <node ref="U33" pin="9"/>
+    </net>
+    <net code="343" name="Net-(U33-Pad12)">
+      <node ref="U33" pin="12"/>
+    </net>
+    <net code="344" name="Net-(U41-Pad8)">
+      <node ref="U41" pin="8"/>
+    </net>
+    <net code="345" name="Net-(U41-Pad6)">
+      <node ref="U41" pin="6"/>
+    </net>
+    <net code="346" name="Net-(U41-Pad9)">
+      <node ref="U41" pin="9"/>
+    </net>
+    <net code="347" name="Net-(U41-Pad12)">
+      <node ref="U41" pin="12"/>
+    </net>
+    <net code="348" name="Net-(U40-Pad6)">
+      <node ref="U40" pin="6"/>
+    </net>
+    <net code="349" name="Net-(U40-Pad8)">
+      <node ref="U40" pin="8"/>
+    </net>
+    <net code="350" name="Net-(U11-Pad12)">
+      <node ref="U11" pin="12"/>
+    </net>
+    <net code="351" name="Net-(U40-Pad12)">
+      <node ref="U40" pin="12"/>
+    </net>
+    <net code="352" name="Net-(U39-Pad6)">
+      <node ref="U39" pin="6"/>
+    </net>
+    <net code="353" name="Net-(U39-Pad8)">
+      <node ref="U39" pin="8"/>
+    </net>
+    <net code="354" name="Net-(U39-Pad9)">
+      <node ref="U39" pin="9"/>
+    </net>
+    <net code="355" name="Net-(U39-Pad12)">
+      <node ref="U39" pin="12"/>
+    </net>
+    <net code="356" name="Net-(U2-Pad8)">
+      <node ref="U2" pin="8"/>
+    </net>
+    <net code="357" name="Net-(U4-Pad9)">
+      <node ref="U4" pin="9"/>
+    </net>
+    <net code="358" name="Net-(U4-Pad12)">
+      <node ref="U4" pin="12"/>
+    </net>
+    <net code="359" name="Net-(U3-Pad6)">
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="360" name="Net-(U3-Pad8)">
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="361" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="362" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="363" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="364" name="Net-(U2-Pad9)">
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="365" name="Net-(U2-Pad12)">
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="366" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="367" name="Net-(U2-Pad10)">
+      <node ref="U2" pin="10"/>
+    </net>
+    <net code="368" name="Net-(U2-Pad11)">
+      <node ref="U2" pin="11"/>
+    </net>
+    <net code="369" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="370" name="Net-(U2-Pad3)">
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="371" name="Net-(Q93-Pad1)">
+      <node ref="Q93" pin="1"/>
+      <node ref="Q95" pin="1"/>
+      <node ref="Q99" pin="1"/>
+      <node ref="Q97" pin="1"/>
+    </net>
+    <net code="372" name="Net-(U2-Pad4)">
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="373" name="Net-(U4-Pad8)">
+      <node ref="U4" pin="8"/>
+    </net>
+    <net code="374" name="Net-(U4-Pad6)">
+      <node ref="U4" pin="6"/>
+    </net>
+    <net code="375" name="Net-(U4-Pad10)">
+      <node ref="U4" pin="10"/>
+    </net>
+    <net code="376" name="Net-(U4-Pad11)">
+      <node ref="U4" pin="11"/>
+    </net>
+    <net code="377" name="Net-(U4-Pad2)">
+      <node ref="U4" pin="2"/>
+    </net>
+    <net code="378" name="Net-(U4-Pad3)">
+      <node ref="U4" pin="3"/>
+    </net>
+    <net code="379" name="Net-(U4-Pad4)">
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="380" name="Net-(U4-Pad5)">
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="381" name="Net-(U4-Pad7)">
+      <node ref="U4" pin="7"/>
+    </net>
+    <net code="382" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="383" name="Net-(U12-Pad8)">
+      <node ref="U12" pin="8"/>
+    </net>
+    <net code="384" name="Net-(U12-Pad6)">
+      <node ref="U12" pin="6"/>
+    </net>
+    <net code="385" name="Net-(U12-Pad9)">
+      <node ref="U12" pin="9"/>
+    </net>
+    <net code="386" name="Net-(U12-Pad12)">
+      <node ref="U12" pin="12"/>
+    </net>
+    <net code="387" name="Net-(U11-Pad6)">
+      <node ref="U11" pin="6"/>
+    </net>
+    <net code="388" name="Net-(U11-Pad8)">
+      <node ref="U11" pin="8"/>
+    </net>
+    <net code="389" name="Net-(U11-Pad9)">
+      <node ref="U11" pin="9"/>
+    </net>
+    <net code="390" name="Net-(U2-Pad5)">
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="391" name="Net-(U2-Pad7)">
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="392" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="393" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="394" name="Net-(U3-Pad11)">
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="395" name="Net-(U3-Pad2)">
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="396" name="Net-(U3-Pad3)">
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="397" name="Net-(U3-Pad4)">
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="398" name="Net-(U3-Pad5)">
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="399" name="Net-(U3-Pad7)">
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="400" name="Net-(U35-Pad10)">
+      <node ref="U35" pin="10"/>
+    </net>
+    <net code="401" name="Net-(U36-Pad2)">
+      <node ref="U36" pin="2"/>
+    </net>
+    <net code="402" name="Net-(U36-Pad3)">
+      <node ref="U36" pin="3"/>
+    </net>
+    <net code="403" name="Net-(U36-Pad4)">
+      <node ref="U36" pin="4"/>
+    </net>
+    <net code="404" name="Net-(U36-Pad5)">
+      <node ref="U36" pin="5"/>
+    </net>
+    <net code="405" name="Net-(U36-Pad6)">
+      <node ref="U36" pin="6"/>
+    </net>
+    <net code="406" name="Net-(U36-Pad7)">
+      <node ref="U36" pin="7"/>
+    </net>
+    <net code="407" name="Net-(U36-Pad8)">
+      <node ref="U36" pin="8"/>
+    </net>
+    <net code="408" name="Net-(U36-Pad9)">
+      <node ref="U36" pin="9"/>
+    </net>
+    <net code="409" name="Net-(U35-Pad1)">
+      <node ref="U35" pin="1"/>
+    </net>
+    <net code="410" name="Net-(U36-Pad12)">
+      <node ref="U36" pin="12"/>
+    </net>
+    <net code="411" name="Net-(U35-Pad11)">
+      <node ref="U35" pin="11"/>
+    </net>
+    <net code="412" name="Net-(U35-Pad2)">
+      <node ref="U35" pin="2"/>
+    </net>
+    <net code="413" name="Net-(U35-Pad3)">
+      <node ref="U35" pin="3"/>
+    </net>
+    <net code="414" name="Net-(U35-Pad4)">
+      <node ref="U35" pin="4"/>
+    </net>
+    <net code="415" name="Net-(U35-Pad5)">
+      <node ref="U35" pin="5"/>
+    </net>
+    <net code="416" name="Net-(U35-Pad7)">
+      <node ref="U35" pin="7"/>
+    </net>
+    <net code="417" name="Net-(U39-Pad4)">
+      <node ref="U39" pin="4"/>
+    </net>
+    <net code="418" name="Net-(U40-Pad7)">
+      <node ref="U40" pin="7"/>
+    </net>
+    <net code="419" name="Net-(U39-Pad1)">
+      <node ref="U39" pin="1"/>
+    </net>
+    <net code="420" name="Net-(U39-Pad10)">
+      <node ref="U39" pin="10"/>
+    </net>
+    <net code="421" name="Net-(U39-Pad11)">
+      <node ref="U39" pin="11"/>
+    </net>
+    <net code="422" name="Net-(U39-Pad2)">
+      <node ref="U39" pin="2"/>
+    </net>
+    <net code="423" name="Net-(U39-Pad3)">
+      <node ref="U39" pin="3"/>
+    </net>
+    <net code="424" name="Net-(U39-Pad5)">
+      <node ref="U39" pin="5"/>
+    </net>
+    <net code="425" name="Net-(U39-Pad7)">
+      <node ref="U39" pin="7"/>
+    </net>
+    <net code="426" name="Net-(U36-Pad1)">
+      <node ref="U36" pin="1"/>
+    </net>
+    <net code="427" name="Net-(U36-Pad10)">
+      <node ref="U36" pin="10"/>
+    </net>
+    <net code="428" name="Net-(U36-Pad11)">
+      <node ref="U36" pin="11"/>
+    </net>
+    <net code="429" name="Net-(U29-Pad12)">
+      <node ref="U29" pin="12"/>
+    </net>
+    <net code="430" name="Net-(U33-Pad4)">
+      <node ref="U33" pin="4"/>
+    </net>
+    <net code="431" name="Net-(U33-Pad5)">
+      <node ref="U33" pin="5"/>
+    </net>
+    <net code="432" name="Net-(U33-Pad7)">
+      <node ref="U33" pin="7"/>
+    </net>
+    <net code="433" name="Net-(U29-Pad1)">
+      <node ref="U29" pin="1"/>
+    </net>
+    <net code="434" name="Net-(U29-Pad10)">
+      <node ref="U29" pin="10"/>
+    </net>
+    <net code="435" name="Net-(U29-Pad11)">
+      <node ref="U29" pin="11"/>
+    </net>
+    <net code="436" name="Net-(U33-Pad3)">
+      <node ref="U33" pin="3"/>
+    </net>
+    <net code="437" name="Net-(U29-Pad2)">
+      <node ref="U29" pin="2"/>
+    </net>
+    <net code="438" name="Net-(U29-Pad3)">
+      <node ref="U29" pin="3"/>
+    </net>
+    <net code="439" name="Net-(U29-Pad4)">
+      <node ref="U29" pin="4"/>
+    </net>
+    <net code="440" name="Net-(U29-Pad5)">
+      <node ref="U29" pin="5"/>
+    </net>
+    <net code="441" name="Net-(U29-Pad6)">
+      <node ref="U29" pin="6"/>
+    </net>
+    <net code="442" name="Net-(U29-Pad7)">
+      <node ref="U29" pin="7"/>
+    </net>
+    <net code="443" name="Net-(U29-Pad8)">
+      <node ref="U29" pin="8"/>
+    </net>
+    <net code="444" name="Net-(U29-Pad9)">
+      <node ref="U29" pin="9"/>
+    </net>
+    <net code="445" name="Net-(U34-Pad1)">
+      <node ref="U34" pin="1"/>
+    </net>
+    <net code="446" name="Net-(U34-Pad10)">
+      <node ref="U34" pin="10"/>
+    </net>
+    <net code="447" name="Net-(U34-Pad11)">
+      <node ref="U34" pin="11"/>
+    </net>
+    <net code="448" name="Net-(U34-Pad2)">
+      <node ref="U34" pin="2"/>
+    </net>
+    <net code="449" name="Net-(U34-Pad3)">
+      <node ref="U34" pin="3"/>
+    </net>
+    <net code="450" name="Net-(U34-Pad4)">
+      <node ref="U34" pin="4"/>
+    </net>
+    <net code="451" name="Net-(U34-Pad5)">
+      <node ref="U34" pin="5"/>
+    </net>
+    <net code="452" name="Net-(U34-Pad7)">
+      <node ref="U34" pin="7"/>
+    </net>
+    <net code="453" name="Net-(U33-Pad1)">
+      <node ref="U33" pin="1"/>
+    </net>
+    <net code="454" name="Net-(U33-Pad10)">
+      <node ref="U33" pin="10"/>
+    </net>
+    <net code="455" name="Net-(U33-Pad11)">
+      <node ref="U33" pin="11"/>
+    </net>
+    <net code="456" name="Net-(U33-Pad2)">
+      <node ref="U33" pin="2"/>
+    </net>
+    <net code="457" name="Net-(U6-Pad9)">
+      <node ref="U7" pin="14"/>
+      <node ref="U6" pin="9"/>
+    </net>
+    <net code="458" name="Net-(A1-Pad17)">
+      <node ref="A1" pin="17"/>
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="459" name="Net-(A1-Pad19)">
+      <node ref="U6" pin="10"/>
+      <node ref="U15" pin="~"/>
+      <node ref="U8" pin="13"/>
+      <node ref="U15" pin="~"/>
+      <node ref="U7" pin="13"/>
+      <node ref="U14" pin="~"/>
+      <node ref="U14" pin="~"/>
+      <node ref="A1" pin="19"/>
+    </net>
+    <net code="460" name="Net-(U6-Pad12)">
+      <node ref="U6" pin="12"/>
+    </net>
+    <net code="461" name="Net-(U6-Pad13)">
+      <node ref="U6" pin="13"/>
+    </net>
+    <net code="462" name="Net-(U41-Pad11)">
+      <node ref="U41" pin="11"/>
+    </net>
+    <net code="463" name="Net-(U41-Pad2)">
+      <node ref="U41" pin="2"/>
+    </net>
+    <net code="464" name="Net-(U41-Pad3)">
+      <node ref="U41" pin="3"/>
+    </net>
+    <net code="465" name="Net-(U41-Pad4)">
+      <node ref="U41" pin="4"/>
+    </net>
+    <net code="466" name="Net-(U41-Pad5)">
+      <node ref="U41" pin="5"/>
+    </net>
+    <net code="467" name="Net-(U41-Pad7)">
+      <node ref="U41" pin="7"/>
+    </net>
+    <net code="468" name="Net-(U41-Pad10)">
+      <node ref="U41" pin="10"/>
+    </net>
+    <net code="469" name="Net-(U40-Pad1)">
+      <node ref="U40" pin="1"/>
+    </net>
+    <net code="470" name="Net-(U40-Pad10)">
+      <node ref="U40" pin="10"/>
+    </net>
+    <net code="471" name="Net-(U40-Pad11)">
+      <node ref="U40" pin="11"/>
+    </net>
+    <net code="472" name="Net-(U40-Pad2)">
+      <node ref="U40" pin="2"/>
+    </net>
+    <net code="473" name="Net-(U40-Pad3)">
+      <node ref="U40" pin="3"/>
+    </net>
+    <net code="474" name="Net-(U40-Pad4)">
+      <node ref="U40" pin="4"/>
+    </net>
+    <net code="475" name="Net-(U40-Pad5)">
+      <node ref="U40" pin="5"/>
+    </net>
+    <net code="476" name="Net-(U42-Pad2)">
+      <node ref="U42" pin="2"/>
+    </net>
+    <net code="477" name="Net-(Q25-Pad2)">
+      <node ref="R47" pin="2"/>
+      <node ref="Q25" pin="2"/>
+    </net>
+    <net code="478" name="Net-(A1-Pad9)">
+      <node ref="Q25" pin="3"/>
+      <node ref="A1" pin="9"/>
+    </net>
+    <net code="479" name="Net-(U42-Pad1)">
+      <node ref="U42" pin="1"/>
+    </net>
+    <net code="480" name="Net-(U42-Pad10)">
+      <node ref="U42" pin="10"/>
+    </net>
+    <net code="481" name="Net-(U42-Pad11)">
+      <node ref="U42" pin="11"/>
+    </net>
+    <net code="482" name="Net-(U42-Pad12)">
+      <node ref="U42" pin="12"/>
+    </net>
+    <net code="483" name="Net-(U28-Pad1)">
+      <node ref="U28" pin="1"/>
+    </net>
+    <net code="484" name="Net-(U42-Pad3)">
+      <node ref="U42" pin="3"/>
+    </net>
+    <net code="485" name="Net-(U42-Pad4)">
+      <node ref="U42" pin="4"/>
+    </net>
+    <net code="486" name="Net-(U42-Pad5)">
+      <node ref="U42" pin="5"/>
+    </net>
+    <net code="487" name="Net-(U42-Pad6)">
+      <node ref="U42" pin="6"/>
+    </net>
+    <net code="488" name="Net-(U42-Pad7)">
+      <node ref="U42" pin="7"/>
+    </net>
+    <net code="489" name="Net-(U42-Pad8)">
+      <node ref="U42" pin="8"/>
+    </net>
+    <net code="490" name="Net-(U42-Pad9)">
+      <node ref="U42" pin="9"/>
+    </net>
+    <net code="491" name="Net-(U41-Pad1)">
+      <node ref="U41" pin="1"/>
+    </net>
+    <net code="492" name="Net-(U13-Pad9)">
+      <node ref="U13" pin="9"/>
+    </net>
+    <net code="493" name="Net-(U12-Pad1)">
+      <node ref="U12" pin="1"/>
+    </net>
+    <net code="494" name="Net-(U12-Pad10)">
+      <node ref="U12" pin="10"/>
+    </net>
+    <net code="495" name="Net-(U12-Pad11)">
+      <node ref="U12" pin="11"/>
+    </net>
+    <net code="496" name="Net-(U12-Pad2)">
+      <node ref="U12" pin="2"/>
+    </net>
+    <net code="497" name="Net-(U12-Pad3)">
+      <node ref="U12" pin="3"/>
+    </net>
+    <net code="498" name="Net-(U12-Pad4)">
+      <node ref="U12" pin="4"/>
+    </net>
+    <net code="499" name="Net-(U12-Pad5)">
+      <node ref="U12" pin="5"/>
+    </net>
+    <net code="500" name="Net-(U13-Pad8)">
+      <node ref="U13" pin="8"/>
+    </net>
+    <net code="501" name="Net-(U12-Pad7)">
+      <node ref="U12" pin="7"/>
+    </net>
+    <net code="502" name="Net-(U11-Pad1)">
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="503" name="Net-(U11-Pad10)">
+      <node ref="U11" pin="10"/>
+    </net>
+    <net code="504" name="Net-(U11-Pad11)">
+      <node ref="U11" pin="11"/>
+    </net>
+    <net code="505" name="Net-(U11-Pad2)">
+      <node ref="U11" pin="2"/>
+    </net>
+    <net code="506" name="Net-(U13-Pad10)">
+      <node ref="U13" pin="10"/>
+    </net>
+    <net code="507" name="Net-(U17-Pad2)">
+      <node ref="U17" pin="2"/>
+    </net>
+    <net code="508" name="Net-(U17-Pad3)">
+      <node ref="U17" pin="3"/>
+    </net>
+    <net code="509" name="Net-(U17-Pad4)">
+      <node ref="U17" pin="4"/>
+    </net>
+    <net code="510" name="Net-(U17-Pad5)">
+      <node ref="U17" pin="5"/>
+    </net>
+    <net code="511" name="Net-(U17-Pad7)">
+      <node ref="U17" pin="7"/>
+    </net>
+    <net code="512" name="Net-(U13-Pad1)">
+      <node ref="U13" pin="1"/>
+    </net>
+    <net code="513" name="Net-(U11-Pad3)">
+      <node ref="U11" pin="3"/>
+    </net>
+    <net code="514" name="Net-(U13-Pad11)">
+      <node ref="U13" pin="11"/>
+    </net>
+    <net code="515" name="Net-(U13-Pad12)">
+      <node ref="U13" pin="12"/>
+    </net>
+    <net code="516" name="Net-(U13-Pad2)">
+      <node ref="U13" pin="2"/>
+    </net>
+    <net code="517" name="Net-(U13-Pad3)">
+      <node ref="U13" pin="3"/>
+    </net>
+    <net code="518" name="Net-(U13-Pad4)">
+      <node ref="U13" pin="4"/>
+    </net>
+    <net code="519" name="Net-(U13-Pad5)">
+      <node ref="U13" pin="5"/>
+    </net>
+    <net code="520" name="Net-(U13-Pad6)">
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="521" name="Net-(U13-Pad7)">
+      <node ref="U13" pin="7"/>
+    </net>
+    <net code="522" name="Net-(U5-Pad8)">
+      <node ref="U5" pin="8"/>
+    </net>
+    <net code="523" name="Net-(U5-Pad10)">
+      <node ref="U5" pin="10"/>
+    </net>
+    <net code="524" name="Net-(U5-Pad11)">
+      <node ref="U5" pin="11"/>
+    </net>
+    <net code="525" name="Net-(U5-Pad12)">
+      <node ref="U5" pin="12"/>
+    </net>
+    <net code="526" name="Net-(U5-Pad2)">
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="527" name="Net-(U5-Pad3)">
+      <node ref="U5" pin="3"/>
+    </net>
+    <net code="528" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="529" name="Net-(U5-Pad5)">
+      <node ref="U5" pin="5"/>
+    </net>
+    <net code="530" name="Net-(U5-Pad6)">
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="531" name="Net-(U5-Pad7)">
+      <node ref="U5" pin="7"/>
+    </net>
+    <net code="532" name="Net-(U5-Pad1)">
+      <node ref="U5" pin="1"/>
+    </net>
+    <net code="533" name="Net-(U5-Pad9)">
+      <node ref="U5" pin="9"/>
+    </net>
+    <net code="534" name="Net-(U11-Pad4)">
+      <node ref="U11" pin="4"/>
+    </net>
+    <net code="535" name="Net-(U11-Pad5)">
+      <node ref="U11" pin="5"/>
+    </net>
+    <net code="536" name="Net-(U11-Pad7)">
+      <node ref="U11" pin="7"/>
+    </net>
+    <net code="537" name="Net-(U10-Pad1)">
+      <node ref="U10" pin="1"/>
+    </net>
+    <net code="538" name="Net-(U10-Pad10)">
+      <node ref="U10" pin="10"/>
+    </net>
+    <net code="539" name="Net-(U10-Pad11)">
+      <node ref="U10" pin="11"/>
+    </net>
+    <net code="540" name="Net-(U10-Pad2)">
+      <node ref="U10" pin="2"/>
+    </net>
+    <net code="541" name="Net-(U10-Pad3)">
+      <node ref="U10" pin="3"/>
+    </net>
+    <net code="542" name="Net-(U10-Pad4)">
+      <node ref="U10" pin="4"/>
+    </net>
+    <net code="543" name="Net-(U10-Pad5)">
+      <node ref="U10" pin="5"/>
+    </net>
+    <net code="544" name="Net-(U10-Pad7)">
+      <node ref="U10" pin="7"/>
+    </net>
+    <net code="545" name="Net-(U26-Pad3)">
+      <node ref="U26" pin="3"/>
+    </net>
+    <net code="546" name="Net-(U27-Pad7)">
+      <node ref="U27" pin="7"/>
+    </net>
+    <net code="547" name="Net-(U26-Pad1)">
+      <node ref="U26" pin="1"/>
+    </net>
+    <net code="548" name="Net-(U26-Pad10)">
+      <node ref="U26" pin="10"/>
+    </net>
+    <net code="549" name="Net-(U26-Pad11)">
+      <node ref="U26" pin="11"/>
+    </net>
+    <net code="550" name="Net-(U26-Pad2)">
+      <node ref="U26" pin="2"/>
+    </net>
+    <net code="551" name="Net-(U27-Pad5)">
+      <node ref="U27" pin="5"/>
+    </net>
+    <net code="552" name="Net-(U26-Pad4)">
+      <node ref="U26" pin="4"/>
+    </net>
+    <net code="553" name="Net-(U26-Pad5)">
+      <node ref="U26" pin="5"/>
+    </net>
+    <net code="554" name="Net-(U26-Pad7)">
+      <node ref="U26" pin="7"/>
+    </net>
+    <net code="555" name="Net-(U20-Pad1)">
+      <node ref="U20" pin="1"/>
+    </net>
+    <net code="556" name="Net-(U20-Pad10)">
+      <node ref="U20" pin="10"/>
+    </net>
+    <net code="557" name="Net-(U28-Pad10)">
+      <node ref="U28" pin="10"/>
+    </net>
+    <net code="558" name="Net-(U28-Pad11)">
+      <node ref="U28" pin="11"/>
+    </net>
+    <net code="559" name="Net-(U28-Pad2)">
+      <node ref="U28" pin="2"/>
+    </net>
+    <net code="560" name="Net-(U28-Pad3)">
+      <node ref="U28" pin="3"/>
+    </net>
+    <net code="561" name="Net-(U28-Pad4)">
+      <node ref="U28" pin="4"/>
+    </net>
+    <net code="562" name="Net-(U28-Pad5)">
+      <node ref="U28" pin="5"/>
+    </net>
+    <net code="563" name="Net-(U28-Pad7)">
+      <node ref="U28" pin="7"/>
+    </net>
+    <net code="564" name="Net-(U20-Pad11)">
+      <node ref="U20" pin="11"/>
+    </net>
+    <net code="565" name="Net-(U27-Pad1)">
+      <node ref="U27" pin="1"/>
+    </net>
+    <net code="566" name="Net-(U27-Pad10)">
+      <node ref="U27" pin="10"/>
+    </net>
+    <net code="567" name="Net-(U27-Pad11)">
+      <node ref="U27" pin="11"/>
+    </net>
+    <net code="568" name="Net-(U27-Pad2)">
+      <node ref="U27" pin="2"/>
+    </net>
+    <net code="569" name="Net-(U27-Pad3)">
+      <node ref="U27" pin="3"/>
+    </net>
+    <net code="570" name="Net-(U27-Pad4)">
+      <node ref="U27" pin="4"/>
+    </net>
+    <net code="571" name="Net-(U18-Pad4)">
+      <node ref="U18" pin="4"/>
+    </net>
+    <net code="572" name="Net-(U19-Pad7)">
+      <node ref="U19" pin="7"/>
+    </net>
+    <net code="573" name="Net-(U18-Pad1)">
+      <node ref="U18" pin="1"/>
+    </net>
+    <net code="574" name="Net-(U18-Pad10)">
+      <node ref="U18" pin="10"/>
+    </net>
+    <net code="575" name="Net-(U18-Pad11)">
+      <node ref="U18" pin="11"/>
+    </net>
+    <net code="576" name="Net-(U18-Pad2)">
+      <node ref="U18" pin="2"/>
+    </net>
+    <net code="577" name="Net-(U18-Pad3)">
+      <node ref="U18" pin="3"/>
+    </net>
+    <net code="578" name="Net-(U18-Pad5)">
+      <node ref="U18" pin="5"/>
+    </net>
+    <net code="579" name="Net-(U18-Pad7)">
+      <node ref="U18" pin="7"/>
+    </net>
+    <net code="580" name="Net-(U17-Pad1)">
+      <node ref="U17" pin="1"/>
+    </net>
+    <net code="581" name="Net-(U17-Pad10)">
+      <node ref="U17" pin="10"/>
+    </net>
+    <net code="582" name="Net-(U17-Pad11)">
+      <node ref="U17" pin="11"/>
+    </net>
+    <net code="583" name="Net-(U20-Pad9)">
+      <node ref="U20" pin="9"/>
+    </net>
+    <net code="584" name="Net-(U20-Pad12)">
+      <node ref="U20" pin="12"/>
+    </net>
+    <net code="585" name="Net-(U20-Pad2)">
+      <node ref="U20" pin="2"/>
+    </net>
+    <net code="586" name="Net-(U20-Pad3)">
+      <node ref="U20" pin="3"/>
+    </net>
+    <net code="587" name="Net-(U20-Pad4)">
+      <node ref="U20" pin="4"/>
+    </net>
+    <net code="588" name="Net-(U20-Pad5)">
+      <node ref="U20" pin="5"/>
+    </net>
+    <net code="589" name="Net-(U20-Pad6)">
+      <node ref="U20" pin="6"/>
+    </net>
+    <net code="590" name="Net-(U20-Pad7)">
+      <node ref="U20" pin="7"/>
+    </net>
+    <net code="591" name="Net-(U20-Pad8)">
+      <node ref="U20" pin="8"/>
+    </net>
+    <net code="592" name="Net-(U19-Pad1)">
+      <node ref="U19" pin="1"/>
+    </net>
+    <net code="593" name="Net-(U19-Pad10)">
+      <node ref="U19" pin="10"/>
+    </net>
+    <net code="594" name="Net-(U19-Pad11)">
+      <node ref="U19" pin="11"/>
+    </net>
+    <net code="595" name="Net-(U19-Pad2)">
+      <node ref="U19" pin="2"/>
+    </net>
+    <net code="596" name="Net-(U19-Pad3)">
+      <node ref="U19" pin="3"/>
+    </net>
+    <net code="597" name="Net-(U19-Pad4)">
+      <node ref="U19" pin="4"/>
+    </net>
+    <net code="598" name="Net-(U19-Pad5)">
+      <node ref="U19" pin="5"/>
+    </net>
+    <net code="599" name="Net-(R24-Pad1)">
+      <node ref="R24" pin="1"/>
+      <node ref="U9" pin="4"/>
+    </net>
+    <net code="600" name="Net-(R19-Pad1)">
+      <node ref="R19" pin="1"/>
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="601" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1"/>
+      <node ref="U9" pin="1"/>
+    </net>
+    <net code="602" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1"/>
+      <node ref="U9" pin="15"/>
+    </net>
+    <net code="603" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="U16" pin="10"/>
+    </net>
+    <net code="604" name="Net-(R22-Pad1)">
+      <node ref="U9" pin="5"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="605" name="Net-(R20-Pad1)">
+      <node ref="U9" pin="6"/>
+      <node ref="R20" pin="1"/>
+    </net>
+    <net code="606" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="U16" pin="3"/>
+    </net>
+    <net code="607" name="Net-(R20-Pad2)">
+      <node ref="U16" pin="5"/>
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="608" name="Net-(R9-Pad2)">
+      <node ref="U16" pin="2"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="609" name="Net-(U7-Pad9)">
+      <node ref="U8" pin="14"/>
+      <node ref="U7" pin="9"/>
+    </net>
+    <net code="610" name="Net-(U23-Pad9)">
+      <node ref="U23" pin="9"/>
+    </net>
+    <net code="611" name="Net-(R24-Pad2)">
+      <node ref="R24" pin="2"/>
+      <node ref="U16" pin="1"/>
+    </net>
+    <net code="612" name="Net-(R23-Pad2)">
+      <node ref="U16" pin="11"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="613" name="Net-(R47-Pad1)">
+      <node ref="U16" pin="12"/>
+      <node ref="R47" pin="1"/>
+    </net>
+    <net code="614" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="U16" pin="4"/>
+    </net>
+    <net code="615" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2"/>
+      <node ref="U16" pin="7"/>
+    </net>
+    <net code="616" name="Net-(R58-Pad1)">
+      <node ref="R58" pin="1"/>
+      <node ref="U16" pin="9"/>
+    </net>
+    <net code="617" name="Net-(U21-Pad9)">
+      <node ref="U21" pin="9"/>
+      <node ref="U22" pin="14"/>
+    </net>
+    <net code="618" name="Net-(U22-Pad9)">
+      <node ref="U23" pin="14"/>
+      <node ref="U22" pin="9"/>
+    </net>
+    <net code="619" name="Net-(U31-Pad9)">
+      <node ref="U32" pin="14"/>
+      <node ref="U31" pin="9"/>
+    </net>
+    <net code="620" name="Net-(A1-Pad21)">
+      <node ref="U22" pin="11"/>
+      <node ref="U23" pin="11"/>
+      <node ref="U21" pin="11"/>
+      <node ref="A1" pin="21"/>
+    </net>
+    <net code="621" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1"/>
+      <node ref="U8" pin="2"/>
+    </net>
+    <net code="622" name="Net-(A1-Pad18)">
+      <node ref="U6" pin="11"/>
+      <node ref="U7" pin="11"/>
+      <node ref="A1" pin="18"/>
+      <node ref="U8" pin="11"/>
+    </net>
+    <net code="623" name="Net-(R11-Pad1)">
+      <node ref="U8" pin="15"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="624" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="625" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1"/>
+      <node ref="U8" pin="3"/>
+    </net>
+    <net code="626" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1"/>
+      <node ref="U8" pin="4"/>
+    </net>
+    <net code="627" name="Net-(R16-Pad1)">
+      <node ref="U8" pin="5"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="628" name="Net-(R17-Pad1)">
+      <node ref="U8" pin="6"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="629" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1"/>
+      <node ref="U8" pin="7"/>
+    </net>
+    <net code="630" name="Net-(A1-Pad20)">
+      <node ref="U21" pin="14"/>
+      <node ref="A1" pin="20"/>
+    </net>
+    <net code="631" name="Net-(U31-Pad12)">
+      <node ref="U31" pin="12"/>
+    </net>
+    <net code="632" name="Net-(U32-Pad10)">
+      <node ref="U32" pin="10"/>
+    </net>
+    <net code="633" name="Net-(U32-Pad12)">
+      <node ref="U32" pin="12"/>
+    </net>
+    <net code="634" name="Net-(U22-Pad10)">
+      <node ref="U22" pin="10"/>
+    </net>
+    <net code="635" name="Net-(U22-Pad12)">
+      <node ref="U22" pin="12"/>
+    </net>
+    <net code="636" name="Net-(U31-Pad10)">
+      <node ref="U31" pin="10"/>
+    </net>
+    <net code="637" name="Net-(U23-Pad10)">
+      <node ref="U23" pin="10"/>
+    </net>
+    <net code="638" name="Net-(U23-Pad12)">
+      <node ref="U23" pin="12"/>
+    </net>
+    <net code="639" name="Net-(U32-Pad9)">
+      <node ref="U32" pin="9"/>
+    </net>
+    <net code="640" name="Net-(U21-Pad10)">
+      <node ref="U21" pin="10"/>
+    </net>
+    <net code="641" name="Net-(U21-Pad12)">
+      <node ref="U21" pin="12"/>
+    </net>
+    <net code="642" name="Net-(U8-Pad10)">
+      <node ref="U8" pin="10"/>
+    </net>
+    <net code="643" name="Net-(U8-Pad12)">
+      <node ref="U8" pin="12"/>
+    </net>
+    <net code="644" name="Net-(A1-Pad22)">
+      <node ref="U24" pin="~"/>
+      <node ref="U24" pin="~"/>
+      <node ref="U21" pin="13"/>
+      <node ref="U23" pin="13"/>
+      <node ref="U22" pin="13"/>
+      <node ref="A1" pin="22"/>
+      <node ref="U25" pin="~"/>
+      <node ref="U25" pin="~"/>
+    </net>
+    <net code="645" name="+3V3">
+      <node ref="A1" pin="4"/>
+    </net>
+    <net code="646" name="Net-(U8-Pad9)">
+      <node ref="U8" pin="9"/>
+    </net>
+    <net code="647" name="Net-(A1-Pad23)">
+      <node ref="A1" pin="23"/>
+      <node ref="U30" pin="14"/>
+    </net>
+    <net code="648" name="Net-(A1-Pad24)">
+      <node ref="U30" pin="11"/>
+      <node ref="U32" pin="11"/>
+      <node ref="U31" pin="11"/>
+      <node ref="A1" pin="24"/>
+    </net>
+    <net code="649" name="Net-(A1-Pad25)">
+      <node ref="U37" pin="~"/>
+      <node ref="U30" pin="13"/>
+      <node ref="U32" pin="13"/>
+      <node ref="U38" pin="~"/>
+      <node ref="U38" pin="~"/>
+      <node ref="A1" pin="25"/>
+      <node ref="U31" pin="13"/>
+      <node ref="U37" pin="~"/>
+    </net>
+    <net code="650" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10"/>
+    </net>
+    <net code="651" name="Net-(U7-Pad12)">
+      <node ref="U7" pin="12"/>
+    </net>
+    <net code="652" name="Net-(Q35-Pad2)">
+      <node ref="R59" pin="2"/>
+      <node ref="Q35" pin="2"/>
+    </net>
+    <net code="653" name="Net-(Q34-Pad2)">
+      <node ref="Q34" pin="2"/>
+      <node ref="R58" pin="2"/>
+    </net>
+    <net code="654" name="Net-(A1-Pad10)">
+      <node ref="A1" pin="10"/>
+      <node ref="Q34" pin="3"/>
+    </net>
+    <net code="655" name="Net-(A1-Pad11)">
+      <node ref="A1" pin="11"/>
+      <node ref="Q35" pin="3"/>
+    </net>
+    <net code="656" name="Net-(Q36-Pad2)">
+      <node ref="R60" pin="2"/>
+      <node ref="Q36" pin="2"/>
+    </net>
+    <net code="657" name="Net-(A1-Pad12)">
+      <node ref="A1" pin="12"/>
+      <node ref="Q36" pin="3"/>
+    </net>
+    <net code="658" name="Net-(Q14-Pad2)">
+      <node ref="Q14" pin="2"/>
+      <node ref="R38" pin="2"/>
+    </net>
+    <net code="659" name="Net-(Q10-Pad3)">
+      <node ref="Q10" pin="3"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="660" name="Net-(R34-Pad1)">
+      <node ref="R34" pin="1"/>
+    </net>
+    <net code="661" name="Net-(Q10-Pad2)">
+      <node ref="R34" pin="2"/>
+      <node ref="Q10" pin="2"/>
+    </net>
+    <net code="662" name="Net-(Q12-Pad2)">
+      <node ref="R36" pin="2"/>
+      <node ref="Q12" pin="2"/>
+    </net>
+    <net code="663" name="Net-(Q12-Pad3)">
+      <node ref="Q12" pin="3"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="664" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1"/>
+    </net>
+    <net code="665" name="Net-(Q14-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q14" pin="3"/>
+    </net>
+    <net code="666" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1"/>
+    </net>
+    <net code="667" name="Net-(Q16-Pad2)">
+      <node ref="Q16" pin="2"/>
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="668" name="Net-(Q16-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q16" pin="3"/>
+    </net>
+    <net code="669" name="Net-(R40-Pad1)">
+      <node ref="R40" pin="1"/>
+    </net>
+    <net code="670" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="671" name="Net-(Q4-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q4" pin="3"/>
+    </net>
+    <net code="672" name="Net-(R28-Pad1)">
+      <node ref="R28" pin="1"/>
+    </net>
+    <net code="673" name="Net-(Q6-Pad2)">
+      <node ref="Q6" pin="2"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="674" name="Net-(Q6-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q6" pin="3"/>
+    </net>
+    <net code="675" name="Net-(R30-Pad1)">
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="676" name="Net-(Q8-Pad2)">
+      <node ref="Q8" pin="2"/>
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="677" name="Net-(Q8-Pad3)">
+      <node ref="Q8" pin="3"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="678" name="Net-(R32-Pad1)">
+      <node ref="R32" pin="1"/>
+    </net>
+    <net code="679" name="Net-(Q27-Pad2)">
+      <node ref="R51" pin="2"/>
+      <node ref="Q27" pin="2"/>
+    </net>
+    <net code="680" name="Net-(Q18-Pad3)">
+      <node ref="Q18" pin="3"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="681" name="Net-(Q20-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q20" pin="3"/>
+    </net>
+    <net code="682" name="Net-(Q22-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q22" pin="3"/>
+    </net>
+    <net code="683" name="Net-(Q24-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q24" pin="3"/>
+    </net>
+    <net code="684" name="Net-(Q24-Pad2)">
+      <node ref="R49" pin="2"/>
+      <node ref="Q24" pin="2"/>
+    </net>
+    <net code="685" name="Net-(R51-Pad1)">
+      <node ref="R51" pin="1"/>
+    </net>
+    <net code="686" name="Net-(Q29-Pad2)">
+      <node ref="Q29" pin="2"/>
+      <node ref="R53" pin="2"/>
+    </net>
+    <net code="687" name="Net-(R53-Pad1)">
+      <node ref="R53" pin="1"/>
+    </net>
+    <net code="688" name="Net-(Q18-Pad2)">
+      <node ref="Q18" pin="2"/>
+      <node ref="R42" pin="2"/>
+    </net>
+    <net code="689" name="Net-(R42-Pad1)">
+      <node ref="R42" pin="1"/>
+    </net>
+    <net code="690" name="Net-(Q20-Pad2)">
+      <node ref="R44" pin="2"/>
+      <node ref="Q20" pin="2"/>
+    </net>
+    <net code="691" name="Net-(R44-Pad1)">
+      <node ref="R44" pin="1"/>
+    </net>
+    <net code="692" name="Net-(Q22-Pad2)">
+      <node ref="Q22" pin="2"/>
+      <node ref="R46" pin="2"/>
+    </net>
+    <net code="693" name="Net-(R46-Pad1)">
+      <node ref="R46" pin="1"/>
+    </net>
+    <net code="694" name="Net-(R49-Pad1)">
+      <node ref="R49" pin="1"/>
+    </net>
+    <net code="695" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="696" name="Net-(R35-Pad1)">
+      <node ref="R35" pin="1"/>
+    </net>
+    <net code="697" name="Net-(R37-Pad1)">
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="698" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1"/>
+    </net>
+    <net code="699" name="Net-(R43-Pad1)">
+      <node ref="R43" pin="1"/>
+    </net>
+    <net code="700" name="Net-(R45-Pad1)">
+      <node ref="R45" pin="1"/>
+    </net>
+    <net code="701" name="Net-(R50-Pad1)">
+      <node ref="R50" pin="1"/>
+    </net>
+    <net code="702" name="Net-(Q9-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q9" pin="3"/>
+    </net>
+    <net code="703" name="Net-(Q11-Pad3)">
+      <node ref="Q11" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="704" name="Net-(Q13-Pad3)">
+      <node ref="Q13" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="705" name="Net-(Q15-Pad3)">
+      <node ref="Q15" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="706" name="Net-(Q17-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q17" pin="3"/>
+    </net>
+    <net code="707" name="Net-(Q19-Pad3)">
+      <node ref="Q19" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="708" name="Net-(R52-Pad1)">
+      <node ref="R52" pin="1"/>
+    </net>
+    <net code="709" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="710" name="Net-(R27-Pad1)">
+      <node ref="R27" pin="1"/>
+    </net>
+    <net code="711" name="Net-(R29-Pad1)">
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="712" name="Net-(Q26-Pad1)">
+      <node ref="Q26" pin="1"/>
+      <node ref="Q28" pin="1"/>
+      <node ref="Q30" pin="1"/>
+      <node ref="Q32" pin="1"/>
+    </net>
+    <net code="713" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2"/>
+      <node ref="R26" pin="2"/>
+    </net>
+    <net code="714" name="Net-(Q2-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="715" name="Net-(R26-Pad1)">
+      <node ref="R26" pin="1"/>
+    </net>
+    <net code="716" name="Net-(R54-Pad1)">
+      <node ref="R54" pin="1"/>
+    </net>
+    <net code="717" name="Net-(Q17-Pad1)">
+      <node ref="Q23" pin="1"/>
+      <node ref="Q17" pin="1"/>
+      <node ref="Q21" pin="1"/>
+      <node ref="Q19" pin="1"/>
+    </net>
+    <net code="718" name="Net-(R55-Pad1)">
+      <node ref="R55" pin="1"/>
+    </net>
+    <net code="719" name="Net-(Q41-Pad2)">
+      <node ref="R81" pin="2"/>
+      <node ref="Q41" pin="2"/>
+    </net>
+    <net code="720" name="Net-(Q41-Pad3)">
+      <node ref="Q41" pin="3"/>
+      <node ref="U24" pin="~"/>
+    </net>
+    <net code="721" name="Net-(Q43-Pad3)">
+      <node ref="U24" pin="~"/>
+      <node ref="Q43" pin="3"/>
+    </net>
+    <net code="722" name="Net-(R83-Pad1)">
+      <node ref="R83" pin="1"/>
+    </net>
+    <net code="723" name="Net-(Q45-Pad2)">
+      <node ref="Q45" pin="2"/>
+      <node ref="R85" pin="2"/>
+    </net>
+    <net code="724" name="Net-(Q37-Pad2)">
+      <node ref="R77" pin="2"/>
+      <node ref="Q37" pin="2"/>
+    </net>
+    <net code="725" name="Net-(Q39-Pad2)">
+      <node ref="R79" pin="2"/>
+      <node ref="Q39" pin="2"/>
+    </net>
+    <net code="726" name="Net-(Q27-Pad3)">
+      <node ref="Q27" pin="3"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="727" name="Net-(Q29-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q29" pin="3"/>
+    </net>
+    <net code="728" name="Net-(Q31-Pad2)">
+      <node ref="Q31" pin="2"/>
+      <node ref="R55" pin="2"/>
+    </net>
+    <net code="729" name="Net-(Q31-Pad3)">
+      <node ref="U15" pin="~"/>
+      <node ref="Q31" pin="3"/>
+    </net>
+    <net code="730" name="Net-(Q33-Pad2)">
+      <node ref="Q33" pin="2"/>
+      <node ref="R57" pin="2"/>
+    </net>
+    <net code="731" name="Net-(Q33-Pad3)">
+      <node ref="Q33" pin="3"/>
+      <node ref="U15" pin="~"/>
+    </net>
+    <net code="732" name="Net-(R57-Pad1)">
+      <node ref="R57" pin="1"/>
+    </net>
+    <net code="733" name="Net-(A1-Pad6)">
+      <node ref="A1" pin="6"/>
+    </net>
+    <net code="734" name="Net-(A1-Pad7)">
+      <node ref="A1" pin="7"/>
+    </net>
+    <net code="735" name="Net-(A1-Pad8)">
+      <node ref="A1" pin="8"/>
+    </net>
+    <net code="736" name="Net-(A1-Pad28)">
+      <node ref="A1" pin="28"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="737" name="Net-(A1-Pad30)">
+      <node ref="A1" pin="30"/>
+    </net>
+    <net code="738" name="Net-(A1-Pad14)">
+      <node ref="A1" pin="14"/>
+      <node ref="U9" pin="13"/>
+    </net>
+    <net code="739" name="Net-(A1-Pad16)">
+      <node ref="U1" pin="2"/>
+      <node ref="A1" pin="16"/>
+    </net>
+    <net code="740" name="Net-(A1-Pad2)">
+      <node ref="A1" pin="2"/>
+    </net>
+    <net code="741" name="Net-(A1-Pad26)">
+      <node ref="A1" pin="26"/>
+      <node ref="U9" pin="14"/>
+    </net>
+    <net code="742" name="Net-(A1-Pad3)">
+      <node ref="A1" pin="3"/>
+    </net>
+    <net code="743" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="744" name="Net-(R9-Pad1)">
+      <node ref="U9" pin="3"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="745" name="Net-(A1-Pad13)">
+      <node ref="U9" pin="11"/>
+      <node ref="A1" pin="13"/>
+    </net>
+    <net code="746" name="Net-(U9-Pad10)">
+      <node ref="U9" pin="10"/>
+    </net>
+    <net code="747" name="Net-(U9-Pad12)">
+      <node ref="U9" pin="12"/>
+    </net>
+    <net code="748" name="Net-(R10-Pad1)">
+      <node ref="U9" pin="7"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="749" name="Net-(U9-Pad9)">
+      <node ref="U9" pin="9"/>
+    </net>
+    <net code="750" name="Net-(A1-Pad27)">
+      <node ref="SW1" pin="2"/>
+      <node ref="A1" pin="27"/>
+    </net>
+    <net code="751" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="752" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="753" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="754" name="Net-(A1-Pad1)">
+      <node ref="A1" pin="1"/>
+    </net>
+    <net code="755" name="Net-(A1-Pad15)">
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="4"/>
+      <node ref="A1" pin="15"/>
+    </net>
+    <net code="756" name="Net-(Q26-Pad2)">
+      <node ref="Q26" pin="2"/>
+      <node ref="R50" pin="2"/>
+    </net>
+    <net code="757" name="Net-(Q21-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q21" pin="3"/>
+    </net>
+    <net code="758" name="Net-(Q23-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q23" pin="3"/>
+    </net>
+    <net code="759" name="Net-(Q28-Pad2)">
+      <node ref="Q28" pin="2"/>
+      <node ref="R52" pin="2"/>
+    </net>
+    <net code="760" name="Net-(Q30-Pad2)">
+      <node ref="Q30" pin="2"/>
+      <node ref="R54" pin="2"/>
+    </net>
+    <net code="761" name="Net-(Q17-Pad2)">
+      <node ref="Q17" pin="2"/>
+      <node ref="R41" pin="2"/>
+    </net>
+    <net code="762" name="Net-(Q19-Pad2)">
+      <node ref="R43" pin="2"/>
+      <node ref="Q19" pin="2"/>
+    </net>
+    <net code="763" name="Net-(Q21-Pad2)">
+      <node ref="Q21" pin="2"/>
+      <node ref="R45" pin="2"/>
+    </net>
+    <net code="764" name="Net-(Q23-Pad2)">
+      <node ref="Q23" pin="2"/>
+      <node ref="R48" pin="2"/>
+    </net>
+    <net code="765" name="Net-(R48-Pad1)">
+      <node ref="R48" pin="1"/>
+    </net>
+    <net code="766" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="767" name="Net-(Q26-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q26" pin="3"/>
+    </net>
+    <net code="768" name="Net-(Q28-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q28" pin="3"/>
+    </net>
+    <net code="769" name="Net-(Q30-Pad3)">
+      <node ref="Q30" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="770" name="Net-(Q32-Pad2)">
+      <node ref="Q32" pin="2"/>
+      <node ref="R56" pin="2"/>
+    </net>
+    <net code="771" name="Net-(Q32-Pad3)">
+      <node ref="Q32" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="772" name="Net-(R56-Pad1)">
+      <node ref="R56" pin="1"/>
+    </net>
+    <net code="773" name="Net-(Q1-Pad1)">
+      <node ref="Q3" pin="1"/>
+      <node ref="Q5" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="Q7" pin="1"/>
+    </net>
+    <net code="774" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="775" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="776" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2"/>
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="777" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+    <net code="778" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="779" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="780" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="781" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="782" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="783" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="784" name="Net-(Q13-Pad2)">
+      <node ref="Q13" pin="2"/>
+      <node ref="R37" pin="2"/>
+    </net>
+    <net code="785" name="Net-(Q11-Pad2)">
+      <node ref="Q11" pin="2"/>
+      <node ref="R35" pin="2"/>
+    </net>
+    <net code="786" name="Net-(Q9-Pad2)">
+      <node ref="R33" pin="2"/>
+      <node ref="Q9" pin="2"/>
+    </net>
+    <net code="787" name="Net-(Q15-Pad2)">
+      <node ref="Q15" pin="2"/>
+      <node ref="R39" pin="2"/>
+    </net>
+    <net code="788" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1"/>
+    </net>
+    <net code="789" name="Net-(R31-Pad1)">
+      <node ref="R31" pin="1"/>
+    </net>
+    <net code="790" name="Net-(Q5-Pad2)">
+      <node ref="R29" pin="2"/>
+      <node ref="Q5" pin="2"/>
+    </net>
+    <net code="791" name="Net-(Q5-Pad3)">
+      <node ref="U14" pin="~"/>
+      <node ref="Q5" pin="3"/>
+    </net>
+    <net code="792" name="Net-(Q7-Pad2)">
+      <node ref="Q7" pin="2"/>
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="793" name="Net-(Q7-Pad3)">
+      <node ref="Q7" pin="3"/>
+      <node ref="U14" pin="~"/>
+    </net>
+  </nets>
+</export>
