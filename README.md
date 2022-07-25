@@ -81,12 +81,10 @@ Code for Arduino
 -> <a href="https://github.com/kahngjoonkoh/DT-Contextual-Challenges-2020-2021/blob/master/src/Arduino/main/main.ino">main.ino</a>
 
 The Arudino has a pin limit. However, there are 25 seven segments displays that require signals. Instead of sending signals to all of the displays simultaneously, 6 displays will be displayed at a time. The time between frames was made short using 
-<pre><code>#define portOfPin(P)\
-  (((P)>=0&&(P)<8)?&PORTD:(((P)>7&&(P)<14)?&PORTB:&PORTC))
-#define ddrOfPin(P)\
-  (((P)>=0&&(P)<8)?&DDRD:(((P)>7&&(P)<14)?&DDRB:&DDRC))
-#define pinOfPin(P)\
-  (((P)>=0&&(P)<8)?&PIND:(((P)>7&&(P)<14)?&PINB:&PINC))
+<pre><code>#define portOfPin(P) (((P)>=0&&(P)<8)?&PORTD:(((P)>7&&(P)<14)?&PORTB:&PORTC))
+#define ddrOfPin(P) (((P)>=0&&(P)<8)?&DDRD:(((P)>7&&(P)<14)?&DDRB:&DDRC))
+#define pinOfPin(P) (((P)>=0&&(P)<8)?&PIND:(((P)>7&&(P)<14)?&PINB:&PINC))
+
 #define pinIndex(P)((uint8_t)(P>13?P-14:P&7))
 #define pinMask(P)((uint8_t)(1<<pinIndex(P)))
 
