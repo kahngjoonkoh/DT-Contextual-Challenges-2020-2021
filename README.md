@@ -53,9 +53,11 @@ Designed with 2D Design
 * 6V 1A AC/DC power supplier
 * Arduino or Arduino Uno
 * Sn74hc595 Shift Register x 10
+* DIP 16 socket x 10
 * CD4514 Demultiplexer x 6
-* Seven Segment Displays x 24 (50.3 x 19 x 8mm with a 0.56 inch digit size; Red)
-* Seven Segment Displays x 1 (71.6 x 25.8 x 7.4mm with a 0.8 inch digit size; Red)
+* DIP 24 socket x 6
+* Seven Segment Displays x 24 (50.3 x 19 x 8mm with a 0.56 inch digit size; Red; common cathode; 10561k)
+* Seven Segment Displays x 1 (71.6 x 25.8 x 7.4mm with a 0.8 inch digit size; Red; common cathode; 10561k)
 * Push Buttons x 2
 * 2N2222A Transistors x 100
 * 100Ω, 200Ω, 1kΩ Resistors
